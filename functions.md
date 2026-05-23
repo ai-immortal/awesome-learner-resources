@@ -16,7 +16,7 @@ Resources organized by learning function (executive skills, communication, wellb
 
 54 resources
 
-### Confidence, Emotions, and Social Skills
+<h3 id="confidence-emotions-and-social-skills">Confidence, Emotions, and Social Skills</h3>
 
 | Title | Description |
 | --- | --- |
@@ -32,7 +32,7 @@ Resources organized by learning function (executive skills, communication, wellb
 | [Smiling Mind App — Smiling Mind](https://www.questtree.net/resources/smilingmind-com-au-smiling-mind-app) | The Smiling Mind App is a versatile mental fitness toolkit designed to support individuals of all ages in developing and maintaining mental wellbeing. With a range of resources tailored for both children and adults, the app focuses on building essential skills such as resilience, stress management, and emotional regulation. Users can explore over 700 sessions and 90 collections, making it easy to find content that meets specific needs or age groups.  This evidence-based app has been crafted by a team of psychologists and wellbeing practitioners, ensuring that users have access to effective strategies for thriving in their daily lives. Available for free, it aims to empower everyone with the tools needed to promote lifelong mental fitness.  **At a glance** - **Resource Type**: A mental fitness app for all ages. - **Features**: Over 700 sessions and 90 collections tailored for specific needs and age groups. - **Focus Areas**: Supports skills such as managing anxiety, improving sleep, and enhancing focus. - **Routine Builder**: Create a personalized mental fitness plan with reminders to develop lasting habits. - **Accessibility**: Free to access, made possible by community support and donations. |
 | [The World of Emotions](https://www.questtree.net/resources/betterkids-education) | Playful, evidence-based emotional learning for kids ages 4–8. Inclusive for children with autism, ADHD & all learning styles. Free to try today. |
 
-### Focus, Planning, and Study Skills
+<h3 id="focus-planning-and-study-skills">Focus, Planning, and Study Skills</h3>
 
 | Title | Description |
 | --- | --- |
@@ -52,7 +52,7 @@ Resources organized by learning function (executive skills, communication, wellb
 | [‎Time Timer App - App Store](https://www.questtree.net/resources/apps-apple-com-us-app-time-timer-id332520417) | Download Time Timer by Time Timer LLC on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Time Timer. |
 | [Todoist \| A To-Do List to Organize Your Work & Life](https://www.questtree.net/resources/todoist-com) | Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm. |
 
-### Homework and Exam Support
+<h3 id="homework-and-exam-support">Homework and Exam Support</h3>
 
 | Title | Description |
 | --- | --- |
@@ -69,7 +69,7 @@ Resources organized by learning function (executive skills, communication, wellb
 | [Test Prep Tutoring \| Online Test Preparation \| The Princeton Review](https://www.questtree.net/resources/princetonreview-com) | The Princeton Review offers online test preparation for SAT, ACT and graduate school entrance exams. Enroll in our test prep courses today. |
 | [Wyzant: Expert Tutors at Affordable Prices](https://www.questtree.net/resources/wyzant-com) | Affordable, top-rated private tutors in 300+ subjects on Wyzant. Trusted by 3 million students with our Good Fit Guarantee. |
 
-### Learning Difficulties and Additional Support
+<h3 id="learning-difficulties-and-additional-support">Learning Difficulties and Additional Support</h3>
 
 | Title | Description |
 | --- | --- |
@@ -80,7 +80,7 @@ Resources organized by learning function (executive skills, communication, wellb
 | [Understood - For learning and thinking differences](https://www.questtree.net/resources/understood-org) | Understood.org is the leading nonprofit empowering the 70 million people with learning and thinking differences in the United States. |
 | [Wrightslaw Special Education Law and Advocacy](https://www.questtree.net/resources/wrightslaw-com) | Wrightslaw provides free access to articles, legal cases, training, and resources about special education law and advocacy. |
 
-### Parent Advice and Support
+<h3 id="parent-advice-and-support">Parent Advice and Support</h3>
 
 | Title | Description |
 | --- | --- |

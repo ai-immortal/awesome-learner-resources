@@ -8,20 +8,20 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Social Studies · Civics Government](#social-studies-civics-government)
-- [Social Studies · Culture Society](#social-studies-culture-society)
-- [Social Studies · Current Events Contemporary Issues](#social-studies-current-events-contemporary-issues)
-- [Social Studies · Economics Financial Literacy](#social-studies-economics-financial-literacy)
-- [Social Studies · Geography Spatial Thinking](#social-studies-geography-spatial-thinking)
-- [Social Studies · Historical Events Movements](#social-studies-historical-events-movements)
-- [Social Studies · Historical Figures Leadership](#social-studies-historical-figures-leadership)
-- [Social Studies · History Chronology](#social-studies-history-chronology)
-- [Social Studies · Inquiry Research Methods](#social-studies-inquiry-research-methods)
-- [Social Studies · Sociology Anthropology](#social-studies-sociology-anthropology)
+- [Social Studies · Civics Government](#social-studies--civics-government)
+- [Social Studies · Culture Society](#social-studies--culture-society)
+- [Social Studies · Current Events Contemporary Issues](#social-studies--current-events-contemporary-issues)
+- [Social Studies · Economics Financial Literacy](#social-studies--economics-financial-literacy)
+- [Social Studies · Geography Spatial Thinking](#social-studies--geography-spatial-thinking)
+- [Social Studies · Historical Events Movements](#social-studies--historical-events-movements)
+- [Social Studies · Historical Figures Leadership](#social-studies--historical-figures-leadership)
+- [Social Studies · History Chronology](#social-studies--history-chronology)
+- [Social Studies · Inquiry Research Methods](#social-studies--inquiry-research-methods)
+- [Social Studies · Sociology Anthropology](#social-studies--sociology-anthropology)
 
 112 resources
 
-### Social Studies · Civics Government
+<h3 id="social-studies--civics-government">Social Studies · Civics Government</h3>
 
 | Title | Description |
 | --- | --- |
@@ -36,7 +36,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The National Constitution Center](https://www.questtree.net/resources/social-studies-civics-government-https-constitutioncenter-org-13pfba) | The National Constitution Center serves as America's leading platform for constitutional education and debate. |
 | [U.S. Government and Politics - YouTube](https://www.questtree.net/resources/social-studies-civics-government-crashcourse-government-series-mbjsyb) | Share your videos with friends, family, and the world |
 
-### Social Studies · Culture Society
+<h3 id="social-studies--culture-society">Social Studies · Culture Society</h3>
 
 | Title | Description |
 | --- | --- |
@@ -52,7 +52,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [TED - YouTube](https://www.questtree.net/resources/social-studies-culture-society-ted-official-71y4qt) | The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their l... |
 | [VICE News - YouTube](https://www.questtree.net/resources/social-studies-culture-society-vice-news-documentaries-cmibf1) | Share your videos with friends, family, and the world |
 
-### Social Studies · Current Events Contemporary Issues
+<h3 id="social-studies--current-events-contemporary-issues">Social Studies · Current Events Contemporary Issues</h3>
 
 | Title | Description |
 | --- | --- |
@@ -72,7 +72,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Vox - YouTube](https://www.questtree.net/resources/social-studies-current-events-contemporary-issues-youtube-channel-6ndrpe) | Making sense of it all.Become a member today: https://www.vox.com/support-nowCheck out our FAQ on permissions and licensing of our videos: https://www.voxmed... |
 | [wsj.com](https://www.questtree.net/resources/social-studies-current-events-contemporary-issues-https-www-wsj-com-p2y0s4) | The Wall Street Journal (wsj.com) offers extensive coverage of global news, business, finance, and economics. It provides in-depth analysis and reporting on current events and contemporary issues, making it a valuable resource for understanding the complexities of the modern world. |
 
-### Social Studies · Economics Financial Literacy
+<h3 id="social-studies--economics-financial-literacy">Social Studies · Economics Financial Literacy</h3>
 
 | Title | Description |
 | --- | --- |
@@ -93,7 +93,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Plain Bagel Basics - YouTube](https://www.questtree.net/resources/social-studies-economics-financial-literacy-personal-finance-investing-explainers-nwnexq) | Share your videos with friends, family, and the world |
 | [YNAB](https://www.questtree.net/resources/social-studies-economics-financial-literacy-app-store-google-play-vvf0ao) | Have you ever worried about money? You're not alone. Download YNAB, get good at money, and never worry about money again. |
 
-### Social Studies · Geography Spatial Thinking
+<h3 id="social-studies--geography-spatial-thinking">Social Studies · Geography Spatial Thinking</h3>
 
 | Title | Description |
 | --- | --- |
@@ -107,7 +107,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Google Earth](https://www.questtree.net/resources/social-studies-geography-spatial-thinking-https-earth-google-com-dsm1u8) | Google Earth is a virtual globe, map, and geographical information program that allows users to explore the Earth with satellite imagery, 3D terrain, and 3D buildings. It provides an immersive way to learn about places, visualize data, and plan expeditions, suitable for both educational and personal exploration. |
 | [Learn With Us \| National Geographic Society](https://www.questtree.net/resources/social-studies-geography-spatial-thinking-https-www-nationalgeographic-org-education-ji0wvl) | Explore educational opportunities that ignite the spirit of exploration and bring the wonder of the world to learners. |
 
-### Social Studies · Historical Events Movements
+<h3 id="social-studies--historical-events-movements">Social Studies · Historical Events Movements</h3>
 
 | Title | Description |
 | --- | --- |
@@ -126,7 +126,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [World history \| Arts and humanities \| Khan Academy](https://www.questtree.net/resources/social-studies-historical-events-movements-world-history-wbvu06) | From the earliest civilizations to the modern world, geography, religion, trade, and politics have bound peoples and nations together — and torn them apart. Take a journey through time and space and discover the fascinating history behind the complex world we inhabit today |
 | [World War 1 - 1914 (Season 1) - YouTube](https://www.questtree.net/resources/social-studies-historical-events-movements-the-great-war-2014-2018-u3q8oo) | 1914 - Europe Goes To War After the assassination of Austro-Hungarian Archduke Franz Ferdinand and the following events today known as the July Crisis, the E... |
 
-### Social Studies · Historical Figures Leadership
+<h3 id="social-studies--historical-figures-leadership">Social Studies · Historical Figures Leadership</h3>
 
 | Title | Description |
 | --- | --- |
@@ -143,7 +143,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [UH - Digital History](https://www.questtree.net/resources/social-studies-historical-figures-leadership-https-www-digitalhistory-uh-edu-ldwpko) | Digital History offers a comprehensive online resource for learning and teaching history. It provides a wide range of primary and secondary sources, interactive tools, and multimedia content to explore historical events and figures. |
 | [World history \| Arts and humanities \| Khan Academy](https://www.questtree.net/resources/social-studies-historical-figures-leadership-https-www-khanacademy-org-humanities-history-9xin5) | From the earliest civilizations to the modern world, geography, religion, trade, and politics have bound peoples and nations together — and torn them apart. Take a journey through time and space and discover the fascinating history behind the complex world we inhabit today |
 
-### Social Studies · History Chronology
+<h3 id="social-studies--history-chronology">Social Studies · History Chronology</h3>
 
 | Title | Description |
 | --- | --- |
@@ -155,7 +155,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [History News & Insights \| Smithsonian Magazine](https://www.questtree.net/resources/social-studies-history-chronology-https-www-smithsonianmag-com-history-xjhzs5) | Stay updated with history news through Smithsonian Magazine, delivering fascinating stories and insights from the past. |
 | [THE HISTORY OF ROME](https://www.questtree.net/resources/social-studies-history-chronology-available-on-multiple-platforms-dpomu0) | This resource appears to be a blog or series of posts dedicated to the history of Rome. It likely offers a narrative or chronological account of Roman history, suitable for those interested in learning about this ancient civilization. |
 
-### Social Studies · Inquiry Research Methods
+<h3 id="social-studies--inquiry-research-methods">Social Studies · Inquiry Research Methods</h3>
 
 | Title | Description |
 | --- | --- |
@@ -170,7 +170,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [US history \| Arts and humanities \| Khan Academy](https://www.questtree.net/resources/social-studies-inquiry-research-methods-us-history-1zd4nc) | The United States of America is a nation with a rich history and a noble goal: government of the people, by the people, for the people. Its citizens' struggle to achieve that goal is a dramatic story stretching over hundreds of years. |
 | [Zotero \| Your personal research assistant](https://www.questtree.net/resources/social-studies-inquiry-research-methods-zotero-o84mvk) | Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research. |
 
-### Social Studies · Sociology Anthropology
+<h3 id="social-studies--sociology-anthropology">Social Studies · Sociology Anthropology</h3>
 
 | Title | Description |
 | --- | --- |

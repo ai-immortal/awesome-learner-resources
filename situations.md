@@ -8,37 +8,37 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 
 ## Table of contents
 
-- [Learner · Friend Drama is Stressing Me Out](#learner-friend-drama-is-stressing-me-out)
-- [Learner · How Can I Make a Difference?](#learner-how-can-i-make-a-difference)
-- [Learner · I Can't Focus](#learner-i-cant-focus)
-- [Learner · I Don't Know How to Tell People How I Feel](#learner-i-dont-know-how-to-tell-people-how-i-feel)
-- [Learner · I Don't Know What I Want to Do](#learner-i-dont-know-what-i-want-to-do)
-- [Learner · I Don't Know What I'm Into Anymore](#learner-i-dont-know-what-im-into-anymore)
-- [Learner · I Hate Homework](#learner-i-hate-homework)
-- [Learner · I Want to Make Cool Stuff but Don't Know How](#learner-i-want-to-make-cool-stuff-but-dont-know-how)
-- [Learner · I'm Scared of Being Bullied](#learner-im-scared-of-being-bullied)
-- [Learner · School Stress Is Breaking Me](#learner-school-stress-is-breaking-me)
-- [Learner · Surviving Family Fights and Home Stress](#learner-surviving-family-fights-and-home-stress)
-- [Learner · What's the Point of School Anyway?](#learner-whats-the-point-of-school-anyway)
-- [Learner · Why Exams Make You Feel Physically Sick](#learner-why-exams-make-you-feel-physically-sick)
-- [Learner · Your Body is Changing](#learner-your-body-is-changing)
-- [Parent · Academic Engagement](#parent-academic-engagement)
-- [Parent · AI Literacy](#parent-ai-literacy)
-- [Parent · Communication](#parent-communication)
-- [Parent · Concentration and Focus](#parent-concentration-and-focus)
-- [Parent · Curiosity & questions](#parent-curiosity-questions)
-- [Parent · Effective Communication with Adolescent](#parent-effective-communication-with-adolescent)
-- [Parent · Environmental Safety](#parent-environmental-safety)
-- [Parent · Online Safety](#parent-online-safety)
-- [Parent · Parenting Time Constraints](#parent-parenting-time-constraints)
-- [Parent · Practical Organizational Skills](#parent-practical-organizational-skills)
-- [Parent · Screen Time Overload](#parent-screen-time-overload)
-- [Parent · Social-Emotional Development](#parent-social-emotional-development)
-- [Parent · STEM Interests and Exploration](#parent-stem-interests-and-exploration)
+- [Learner · Friend Drama is Stressing Me Out](#learner--friend-drama-is-stressing-me-out)
+- [Learner · How Can I Make a Difference?](#learner--how-can-i-make-a-difference)
+- [Learner · I Can't Focus](#learner--i-cant-focus)
+- [Learner · I Don't Know How to Tell People How I Feel](#learner--i-dont-know-how-to-tell-people-how-i-feel)
+- [Learner · I Don't Know What I Want to Do](#learner--i-dont-know-what-i-want-to-do)
+- [Learner · I Don't Know What I'm Into Anymore](#learner--i-dont-know-what-im-into-anymore)
+- [Learner · I Hate Homework](#learner--i-hate-homework)
+- [Learner · I Want to Make Cool Stuff but Don't Know How](#learner--i-want-to-make-cool-stuff-but-dont-know-how)
+- [Learner · I'm Scared of Being Bullied](#learner--im-scared-of-being-bullied)
+- [Learner · School Stress Is Breaking Me](#learner--school-stress-is-breaking-me)
+- [Learner · Surviving Family Fights and Home Stress](#learner--surviving-family-fights-and-home-stress)
+- [Learner · What's the Point of School Anyway?](#learner--whats-the-point-of-school-anyway)
+- [Learner · Why Exams Make You Feel Physically Sick](#learner--why-exams-make-you-feel-physically-sick)
+- [Learner · Your Body is Changing](#learner--your-body-is-changing)
+- [Parent · Academic Engagement](#parent--academic-engagement)
+- [Parent · AI Literacy](#parent--ai-literacy)
+- [Parent · Communication](#parent--communication)
+- [Parent · Concentration and Focus](#parent--concentration-and-focus)
+- [Parent · Curiosity & questions](#parent--curiosity--questions)
+- [Parent · Effective Communication with Adolescent](#parent--effective-communication-with-adolescent)
+- [Parent · Environmental Safety](#parent--environmental-safety)
+- [Parent · Online Safety](#parent--online-safety)
+- [Parent · Parenting Time Constraints](#parent--parenting-time-constraints)
+- [Parent · Practical Organizational Skills](#parent--practical-organizational-skills)
+- [Parent · Screen Time Overload](#parent--screen-time-overload)
+- [Parent · Social-Emotional Development](#parent--social-emotional-development)
+- [Parent · STEM Interests and Exploration](#parent--stem-interests-and-exploration)
 
 396 resources
 
-### Learner · Friend Drama is Stressing Me Out
+<h3 id="learner--friend-drama-is-stressing-me-out">Learner · Friend Drama is Stressing Me Out</h3>
 
 | Title | Description |
 | --- | --- |
@@ -54,7 +54,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Researchers find genetic link between physical pain and social rejection \| UCLA](https://www.questtree.net/resources/ucla-research-social-pain-and-physical-pain-7nor2t) | The study indicates that variation in a receptor gene associated with physical pain is related to how much social pain a person feels in response to social rejection. |
 | [The Gottman Four Horsemen \| Gottman Institute](https://www.questtree.net/resources/gottman-institute-the-four-horsemen-v5juwq) | Identify the Four Horsemen in your conflict discussions, eliminate them and replace them with healthy, productive communication patterns. |
 
-### Learner · How Can I Make a Difference?
+<h3 id="learner--how-can-i-make-a-difference">Learner · How Can I Make a Difference?</h3>
 
 | Title | Description |
 | --- | --- |
@@ -69,7 +69,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Project I Am](https://www.questtree.net/resources/project-i-am-lqyqf) | Organization making Blessing Bags for people experiencing homelessness |
 | [What is a Random Act of Kindness? \| Random Act of Kindness Day for Kids - YouTube](https://www.questtree.net/resources/random-act-of-kindness-day-for-kids-yh3ad3) | In this video, we learn all about what a Random Act of Kindness is and how we can do more random acts of kindness in school and at home. Random Acts of Kindn... |
 
-### Learner · I Can't Focus
+<h3 id="learner--i-cant-focus">Learner · I Can't Focus</h3>
 
 | Title | Description |
 | --- | --- |
@@ -88,7 +88,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [What is a Pomodoro and How Can it Help with ADHD? - YouTube](https://www.questtree.net/resources/pomodoro-adhd-b8dn9m) | Hello Brains! This is our definitions series, which defines common terms used in the ADHD community. This month -- pomodoro!-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-... |
 | [Why our attention spans are shrinking, with Gloria Mark, PhD](https://www.questtree.net/resources/apa-podcast-attention-spans-c6dcou) | Gloria Mark, PhD, talks about how the internet and digital devices have affected our ability to focus, why multitasking is so stressful, and how understanding the science of attention can help us to regain our focus when we need it. |
 
-### Learner · I Don't Know How to Tell People How I Feel
+<h3 id="learner--i-dont-know-how-to-tell-people-how-i-feel">Learner · I Don't Know How to Tell People How I Feel</h3>
 
 | Title | Description |
 | --- | --- |
@@ -109,7 +109,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Wysa - Everyday Mental Health](https://www.questtree.net/resources/wysa-ul8r7e) | Use Wysa to vent or just talk through negative thoughts and emotions. Let it help you cope with pandemic anxiety and lockdowns. It is anonymous, safe and free. |
 | [Youper](https://www.questtree.net/resources/youper-3bwr99) | Youper is a wellbeing AI chatbot. Not a therapist or medical device. For adults 18+ only. Not a substitute for professional mental health care. |
 
-### Learner · I Don't Know What I Want to Do
+<h3 id="learner--i-dont-know-what-i-want-to-do">Learner · I Don't Know What I Want to Do</h3>
 
 | Title | Description |
 | --- | --- |
@@ -130,7 +130,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Evolution of Emma Chamberlain - The New York Times](https://www.questtree.net/resources/nytimes-com-fu2tj2) | By 18, Emma Chamberlain had dropped out of school and changed the world of online video. |
 | [The Future of Jobs Report 2023 \| World Economic Forum](https://www.questtree.net/resources/world-economic-forum-future-of-jobs-report-2023-ijj3pm) | The Future of Jobs Report 2023 explores how jobs and skills will evolve over the next five years. This fourth edition of the series continues the analysis of employer expectations to provide new insights on how socio-economic and technology trends will shape the workplace of the future. |
 
-### Learner · I Don't Know What I'm Into Anymore
+<h3 id="learner--i-dont-know-what-im-into-anymore">Learner · I Don't Know What I'm Into Anymore</h3>
 
 | Title | Description |
 | --- | --- |
@@ -138,7 +138,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Rediscovering my hobbies after burnout - YouTube](https://www.questtree.net/resources/rediscovering-hobbies-53czz) | Overachievers, perfectionists and former gifted kids often find themselves lost in their 20s and struggling to pick up hobbies and interests. Why? How do we ... |
 | [What is depression? - Helen M. Farrell - YouTube](https://www.questtree.net/resources/what-is-depression-wc734v) | View full lesson: http://ed.ted.com/lessons/what-is-depression-helen-m-farrellDepression is the leading cause of disability in the world; in the United State... |
 
-### Learner · I Hate Homework
+<h3 id="learner--i-hate-homework">Learner · I Hate Homework</h3>
 
 | Title | Description |
 | --- | --- |
@@ -154,7 +154,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [What Is Eat the Frog? A Simple System for Productivity Minimalists](https://www.questtree.net/resources/eat-the-frog-method-u3blfq) | "If it's your job to eat a frog, it's best to do it first thing in the morning." Eat The Frog is the simplest system to make progress on almost anything. |
 | [When you just can't seem to find the right answer](https://www.questtree.net/resources/homework-help-subreddit-2e6jzd) | Real people helping with real problems. Just don't ask them to do it FOR you |
 
-### Learner · I Want to Make Cool Stuff but Don't Know How
+<h3 id="learner--i-want-to-make-cool-stuff-but-dont-know-how">Learner · I Want to Make Cool Stuff but Don't Know How</h3>
 
 | Title | Description |
 | --- | --- |
@@ -168,7 +168,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Breakfast Machine - YouTube](https://www.questtree.net/resources/simone-giertz-breakfast-machine-r9p95r) | I programmed a uArm robot arm to feed me Cheerios for breakfast. And yes: duct tape is an inevitable part of the DIY process. Read my article at Motherboard ... |
 | [The Wake-up Machine VLOG - YouTube](https://www.questtree.net/resources/simone-giertz-slap-alarm-robot-qp5o1w) | I built an alarm clock that wakes me up in the morning by slapping me in the face with a rubber arm. I picked apart a clock, wired it to an Arduino UNO and c... |
 
-### Learner · I'm Scared of Being Bullied
+<h3 id="learner--im-scared-of-being-bullied">Learner · I'm Scared of Being Bullied</h3>
 
 | Title | Description |
 | --- | --- |
@@ -184,7 +184,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [What does it mean to go "gray rock"? (Glossary of Narcissistic Relationships) - YouTube](https://www.questtree.net/resources/the-gray-rock-method-explained-kjz2yx) | ORDER MY NYT BESTSELLING BOOK 📖 "IT'S NOT YOU"https://smarturl.it/not-youJOIN MY HEALING PROGRAMhttps://doctor-ramani.teachable.com/p/taking-yourself-back-h... |
 | [Your Body Language May Shape Who You Are \| Amy Cuddy \| TED - YouTube](https://www.questtree.net/resources/your-body-language-may-shape-who-you-are-wdinxp) | Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that "power posing" -- standing in... |
 
-### Learner · School Stress Is Breaking Me
+<h3 id="learner--school-stress-is-breaking-me">Learner · School Stress Is Breaking Me</h3>
 
 | Title | Description |
 | --- | --- |
@@ -200,7 +200,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The 5-5-5 Breathing Technique - YouTube](https://www.questtree.net/resources/5-5-5-breathing-technique-k85o95) | Have you been feeling stressed out lately? Do you wonder what immediate actions you can do to relieve your stress? Learn the 5-5-5 breathing technique with D... |
 | [Writing about worries eases anxiety and improves test performance \| University of Chicago News](https://www.questtree.net/resources/writing-about-worries-eases-anxiety-and-improves-test-performance-qcrr1z) | Students can combat test anxiety and improve performance by writing about their worries immediately before the exam begins |
 
-### Learner · Surviving Family Fights and Home Stress
+<h3 id="learner--surviving-family-fights-and-home-stress">Learner · Surviving Family Fights and Home Stress</h3>
 
 | Title | Description |
 | --- | --- |
@@ -224,7 +224,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Impact of Supportive Parent Actions on LGBTQ+ Youth](https://www.questtree.net/resources/trevor-project-supportive-behaviors-research-mfoxpe) | Gender-identity-focused data shows supportive parent and caregiver actions are associated with lower suicide risk in LGBTQ+ youth. |
 | [UVA-Led National Report Finds the Promise of Adolescence is Largely Untapped \| UVA Today Archives](https://www.questtree.net/resources/uva-promise-of-adolescence-report-6s6xkb) | The report finds that after infancy, adolescence is the most active period in neuro development. “It’s a dramatic period of brain development,” said Richard Bonnie, the director of the UVA’s Institute of Law, Psychiatry and Public Policy and chairman of the report committee. |
 
-### Learner · What's the Point of School Anyway?
+<h3 id="learner--whats-the-point-of-school-anyway">Learner · What's the Point of School Anyway?</h3>
 
 | Title | Description |
 | --- | --- |
@@ -237,7 +237,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Roadtrip Nation \| Find your career roadmap](https://www.questtree.net/resources/roadtrip-nation-61yr27) | Explore your career options and find professions that match your interests by reading about how inspiring people started doing what they do. |
 | [What's the Point in School? \| Why Education Matters 🎓✨ - YouTube](https://www.questtree.net/resources/what-s-the-point-in-school-2289rc) | What's the Point in School? \| Why Education Matters 🎓✨School life can be challenging, and it’s easy to lose sight of its importance. In this video, I explor... |
 
-### Learner · Why Exams Make You Feel Physically Sick
+<h3 id="learner--why-exams-make-you-feel-physically-sick">Learner · Why Exams Make You Feel Physically Sick</h3>
 
 | Title | Description |
 | --- | --- |
@@ -253,7 +253,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Stress effects on the body](https://www.questtree.net/resources/american-psychological-association-stress-and-body-w6o1wh) | Stress affects all systems of the body including the musculoskeletal, respiratory, cardiovascular, endocrine, gastrointestinal, nervous, and reproductive systems. |
 | [Tackling your worries - Every Mind Matters - NHS](https://www.questtree.net/resources/tackling-your-worries-every-mind-matters-oywisy) | Find out about the worry time technique, as well as plenty more practical tips and strategies you can try to help you tackle your worries. |
 
-### Learner · Your Body is Changing
+<h3 id="learner--your-body-is-changing">Learner · Your Body is Changing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -282,7 +282,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Body Positive](https://www.questtree.net/resources/the-body-positive-j9xg3o) | Organization promoting positive body image and acceptance |
 | [The Effects of Social Media Use on Teens' Body Image \| Psychology Today](https://www.questtree.net/resources/the-effects-of-social-media-use-on-teens-body-image-bmlnsb) | Most youth use social media daily, raising concerns about its psychological effects. A new study shows reducing social media can improve body image. |
 
-### Parent · Academic Engagement
+<h3 id="parent--academic-engagement">Parent · Academic Engagement</h3>
 
 | Title | Description |
 | --- | --- |
@@ -304,7 +304,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Teen-Disengagement Crisis - The Atlantic](https://www.questtree.net/resources/the-disengaged-teen-the-atlantic-phgts5) | By middle school, many kids’ interest in learning falls off a cliff. The ripple effects could last for years. |
 | [Zooniverse](https://www.questtree.net/resources/zooniverse-jnnynn) | The Zooniverse is the world's largest and most popular platform for people-powered research. |
 
-### Parent · AI Literacy
+<h3 id="parent--ai-literacy">Parent · AI Literacy</h3>
 
 | Title | Description |
 | --- | --- |
@@ -332,7 +332,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [What parents need to know about AI in the classroom \| Stanford Report](https://www.questtree.net/resources/stanford-s-expert-guide-for-parents-ujg22v) | From immersive learning to personalized tutors, AI is everywhere in K-12 education. Here are three steps parents can take to stay informed and engaged. |
 | [What parents say about their teen’s AI use \| Pew Research Center](https://www.questtree.net/resources/what-parents-say-about-their-teen-s-ai-use-bcj3wp) | About this research This study is Pew Research Center’s latest effort to explore the landscape of teens and technology today. It focuses on artificial intelligence – from how teens use… |
 
-### Parent · Communication
+<h3 id="parent--communication">Parent · Communication</h3>
 
 | Title | Description |
 | --- | --- |
@@ -359,7 +359,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [What Is the CASEL Framework? - CASEL](https://www.questtree.net/resources/casel-framework-8r4u5s) | Our SEL framework, known to many as the “CASEL wheel,” helps cultivate skills and environments that advance students’ learning and development. |
 | [What the heck is the event loop anyway? \| Philip Roberts \| JSConf EU - YouTube](https://www.questtree.net/resources/i-statements-ted-ed-ubfp52) | JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”.We say things li... |
 
-### Parent · Concentration and Focus
+<h3 id="parent--concentration-and-focus">Parent · Concentration and Focus</h3>
 
 | Title | Description |
 | --- | --- |
@@ -379,7 +379,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Use Screen Time to manage your child's iPhone or iPad  - Apple Support](https://www.questtree.net/resources/apple-screen-time-yd38ta) | With Screen Time, you can see how much time your child spends on their device, including which apps and websites they use the most. You can also schedule daily app limits, block content that isn't age appropriate, and more. |
 | [Why Your Child Can’t Concentrate: Focus & Learning Tips \| HMH - YouTube](https://www.questtree.net/resources/why-your-child-can-t-concentrate-focus-learning-tips-ymawk7) | Pediatric experts at Hackensack Meridian Health discuss why children struggle with focus and attention. Explore causes like ADHD, sleep and stress and learn ... |
 
-### Parent · Curiosity & questions
+<h3 id="parent--curiosity--questions">Parent · Curiosity &amp; questions</h3>
 
 | Title | Description |
 | --- | --- |
@@ -396,7 +396,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Growth Mindset \| Carol Dweck \| Talks at Google - YouTube](https://www.questtree.net/resources/the-growth-mindset-carol-dweck-talks-at-google-gsgj47) | “You’re so talented!”, “You are gifted – a natural!”, “You’re doing so well in school, you must be really smart!” – children receive these messages (or their... |
 | [Watch Together: Co-Viewing Media With Your Child - HealthyChildren.org](https://www.questtree.net/resources/watch-together-co-viewing-media-with-your-child-mdhz4i) | Co-viewing allows you to connect and discuss topics you might not have known how to bring up with your child. It also helps kids make connections and see things from someone else's perspective. |
 
-### Parent · Effective Communication with Adolescent
+<h3 id="parent--effective-communication-with-adolescent">Parent · Effective Communication with Adolescent</h3>
 
 | Title | Description |
 | --- | --- |
@@ -421,7 +421,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [The Teen Brain: 7 Things to Know - National Institute of Mental Health (NIMH)](https://www.questtree.net/resources/the-teen-brain-7-things-to-know-g4pkls) | Learn about how the teen brain grows, matures, and adapts to the world. |
 | [What Is the Yale Mood Meter? - The Mood Meter](https://www.questtree.net/resources/themoodmeter-com-h2crpy) | Explore the Yale Mood Meter, a tool that helps build emotional intelligence by teaching how to identify, understand, and manage your emotions. |
 
-### Parent · Environmental Safety
+<h3 id="parent--environmental-safety">Parent · Environmental Safety</h3>
 
 | Title | Description |
 | --- | --- |
@@ -442,7 +442,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [New Studies Show PFAS in Artificial Grass Blades and Backing \| Environmental Working Group](https://www.questtree.net/resources/new-studies-show-pfas-in-artificial-grass-blades-and-backing-jbx0il) | Parents and communities have long worried about the health risks of chemicals in synthetic turf made from rubber tires, which can be contaminated with heavy metals and chemicals linked to increased risk of cancer. |
 | [Resources - Children's Environmental Health Network](https://www.questtree.net/resources/children-s-environmental-health-network-mnmvnh) | Resources Browse by Resource Category For Child Care Providers (Eco-Healthy Child Care® Resources) For Parents, Families, and Other Child Health Advocates For Healthcare Professionals State Profiles Climate Change Resources Reports & Publications EHCC Provider Spotlights COVID-19 Resources CEHN Annual Reports CEHN Policies Resource typeAll Resource Types All Resource Types Advocacy Resources (7) Annual Reports (20) |
 
-### Parent · Online Safety
+<h3 id="parent--online-safety">Parent · Online Safety</h3>
 
 | Title | Description |
 | --- | --- |
@@ -475,7 +475,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Use Screen Time to manage your child's iPhone or iPad  - Apple Support](https://www.questtree.net/resources/apple-screen-time-3myb26) | With Screen Time, you can see how much time your child spends on their device, including which apps and websites they use the most. You can also schedule daily app limits, block content that isn't age appropriate, and more. |
 | [What to know about teen online safety as 1 in 5 teens experience sextortion](https://www.questtree.net/resources/what-to-know-about-teen-online-safety-as-1-in-5-teens-experience-sextortion-d56mx3) | One in five teens and young adults have experienced sextortion, according to a 2025 survey by Thorn, a child safety nonprofit. We explore what is happening and how parents can protect their children. |
 
-### Parent · Parenting Time Constraints
+<h3 id="parent--parenting-time-constraints">Parent · Parenting Time Constraints</h3>
 
 | Title | Description |
 | --- | --- |
@@ -489,7 +489,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [This Is Why Moms Are Exhausted (And It’s Not Because of Their Kids) - YouTube](https://www.questtree.net/resources/this-is-why-moms-are-exhausted-and-it-s-not-because-of-their-kids-3fffvl) | If you feel exhausted before the day even starts, this isn’t a personal failure—and it’s not because you’re doing parenting “wrong.”So much modern parenting ... |
 | [Working Mom Burnout - Tips for HR and Parents - YouTube](https://www.questtree.net/resources/working-mom-burnout-tips-for-hr-and-parents-xvz2vf) | Working moms are burning out at higher rates than almost any other group in the workforce. And the impact on the workplace is considerable.  Dr. Rosina McAlp... |
 
-### Parent · Practical Organizational Skills
+<h3 id="parent--practical-organizational-skills">Parent · Practical Organizational Skills</h3>
 
 | Title | Description |
 | --- | --- |
@@ -504,7 +504,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [How to Get (and Stay) Organized: 5 Tips for Teens \| Child Mind Institute - YouTube](https://www.questtree.net/resources/how-to-get-and-stay-organized-5-tips-for-teens-gota8r) | When you’re disorganized, it can feel like you’re always one mistake away from disaster. To outsiders, it might seem like if you just paid attention or tried... |
 | [Tools and tips to help your teen get organized](https://www.questtree.net/resources/understood-org-tools-and-tips-to-help-your-teen-get-organized-aw5xzx) | Do you have a middle school or high school teen who’s very disorganized? Learn tips and tools to help your teen, like how to color-code their belongings, organize their locker, and declutter their room. |
 
-### Parent · Screen Time Overload
+<h3 id="parent--screen-time-overload">Parent · Screen Time Overload</h3>
 
 | Title | Description |
 | --- | --- |
@@ -516,7 +516,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [Video Game Addiction: Ready To Quit? Join Game Quitters Today](https://www.questtree.net/resources/game-quitters-kvwy86) | Game Quitters is the largest support community for video game addiction. If you're ready to quit playing video games, you're in the right place. Join today! |
 | [Youth Toolkit](https://www.questtree.net/resources/center-for-humane-technology-youth-bg61aj) | We're a nonprofit exposing the negative effects of persuasive technology and social media and empowering people to take action. Discover The Social Dilemma, our podcast, course, and more. |
 
-### Parent · Social-Emotional Development
+<h3 id="parent--social-emotional-development">Parent · Social-Emotional Development</h3>
 
 | Title | Description |
 | --- | --- |
@@ -538,7 +538,7 @@ Resources tied to a parent or learner situation (homework stress, screen time, f
 | [You searched for Practical home ideas for emotional learning - CASEL](https://www.questtree.net/resources/casel-family-sel-resources-9x48dp) | Curated resource for Parent — Social-Emotional Development. |
 | [Youth Mental Health: The Numbers \| Adolescent and School Health \| CDC](https://www.questtree.net/resources/cdc-youth-risk-behavior-survey-mental-health-numbers-fqqh8q) | CDC data offer an important snapshot of adolescent health and well-being related to mental health. |
 
-### Parent · STEM Interests and Exploration
+<h3 id="parent--stem-interests-and-exploration">Parent · STEM Interests and Exploration</h3>
 
 | Title | Description |
 | --- | --- |

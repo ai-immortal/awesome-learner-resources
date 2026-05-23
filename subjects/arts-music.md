@@ -8,20 +8,20 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Arts & Music · Art History Criticism](#arts-music-art-history-criticism)
-- [Arts & Music · Arts Business Professional Practice](#arts-music-arts-business-professional-practice)
-- [Arts & Music · Crafts Applied Arts](#arts-music-crafts-applied-arts)
-- [Arts & Music · Design Arts](#arts-music-design-arts)
-- [Arts & Music · Film Media Arts](#arts-music-film-media-arts)
-- [Arts & Music · Music Performance](#arts-music-music-performance)
-- [Arts & Music · Music Production Technology](#arts-music-music-production-technology)
-- [Arts & Music · Music Theory Composition](#arts-music-music-theory-composition)
-- [Arts & Music · Performing Arts](#arts-music-performing-arts)
-- [Arts & Music · Visual Arts](#arts-music-visual-arts)
+- [Arts & Music · Art History Criticism](#arts--music--art-history-criticism)
+- [Arts & Music · Arts Business Professional Practice](#arts--music--arts-business-professional-practice)
+- [Arts & Music · Crafts Applied Arts](#arts--music--crafts-applied-arts)
+- [Arts & Music · Design Arts](#arts--music--design-arts)
+- [Arts & Music · Film Media Arts](#arts--music--film-media-arts)
+- [Arts & Music · Music Performance](#arts--music--music-performance)
+- [Arts & Music · Music Production Technology](#arts--music--music-production-technology)
+- [Arts & Music · Music Theory Composition](#arts--music--music-theory-composition)
+- [Arts & Music · Performing Arts](#arts--music--performing-arts)
+- [Arts & Music · Visual Arts](#arts--music--visual-arts)
 
 106 resources
 
-### Arts & Music · Art History Criticism
+<h3 id="arts--music--art-history-criticism">Arts &amp; Music · Art History Criticism</h3>
 
 | Title | Description |
 | --- | --- |
@@ -39,7 +39,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Lonely Palette Podcast](https://www.questtree.net/resources/arts-music-art-history-criticism-the-lonely-palette-fnnvz5) | The podcast that returns art history to the masses, one painting at a time. |
 | [The Metropolitan Museum of Art](https://www.questtree.net/resources/arts-music-art-history-criticism-https-www-metmuseum-org-2vzor5) | The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy. |
 
-### Arts & Music · Arts Business Professional Practice
+<h3 id="arts--music--arts-business-professional-practice">Arts &amp; Music · Arts Business Professional Practice</h3>
 
 | Title | Description |
 | --- | --- |
@@ -60,7 +60,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Art Newspaper - International art news and events](https://www.questtree.net/resources/arts-music-arts-business-professional-practice-the-art-newspaper-4uc7s5) | The Art Newspaper is the journal of record for the visual arts world, covering international news and events. |
 | [Volunteer Lawyers for the Arts - VLANY](https://www.questtree.net/resources/arts-music-arts-business-professional-practice-vla-general-information-h1ln4i) | Volunteer Lawyers for the Arts is the leading legal aid and education organization dedicated to New York artists and its arts and cultural organizations. VLA strives to protect the artistic community’s livelihoods, businesses, and creative works through access to dedicated legal representation and focused education programs. |
 
-### Arts & Music · Crafts Applied Arts
+<h3 id="arts--music--crafts-applied-arts">Arts &amp; Music · Crafts Applied Arts</h3>
 
 | Title | Description |
 | --- | --- |
@@ -75,7 +75,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Procreate for iPad — Sketch. Paint. Create.](https://www.questtree.net/resources/arts-music-crafts-applied-arts-sketchbook-procreate-ipad-zft693) | The number one drawing and illustration app for iPad, Procreate is the complete art studio you can take anywhere. Pay once. No subscription. |
 | [Yours for the making](https://www.questtree.net/resources/arts-music-crafts-applied-arts-https-www-instructables-com-1zic77) | Instructables is a community for people who like to make things. Come explore, share, and make your next project with us! |
 
-### Arts & Music · Design Arts
+<h3 id="arts--music--design-arts">Arts &amp; Music · Design Arts</h3>
 
 | Title | Description |
 | --- | --- |
@@ -91,7 +91,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Futur \| Make a Living Doing What You Love](https://www.questtree.net/resources/arts-music-design-arts-the-futur-jrzpmb) | The Futur is an online education platform with courses, coaching, and community to help creative professionals build personal brands and grow their businesses. |
 | [Tinkercad](https://www.questtree.net/resources/arts-music-design-arts-tinkercad-website-hvdllx) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. |
 
-### Arts & Music · Film Media Arts
+<h3 id="arts--music--film-media-arts">Arts &amp; Music · Film Media Arts</h3>
 
 | Title | Description |
 | --- | --- |
@@ -105,7 +105,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [StudioBinder - YouTube](https://www.questtree.net/resources/arts-music-film-media-arts-studiobinder-youtube-channel-fx3nvr) | StudioBinder is a production management solution that helps video and photo productions create call sheets, shot lists, shooting schedules, breakdowns, story... |
 | [The Futur - YouTube](https://www.questtree.net/resources/arts-music-film-media-arts-the-futur-youtube-channel-sskyzc) | The Futur is the global training platform for creative entrepreneurs who want to learn business strategy, personal branding, and how to scale their creative ... |
 
-### Arts & Music · Music Performance
+<h3 id="arts--music--music-performance">Arts &amp; Music · Music Performance</h3>
 
 | Title | Description |
 | --- | --- |
@@ -116,7 +116,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Talks by fierce moms \| TED Playlist](https://www.questtree.net/resources/arts-music-music-performance-ted-talks-on-music-performance-vjy1lv) | Mothers have so many roles: nurturer, provider, disciplinarian, confidant, mentor, friend, protector. These incredible talks demonstrate all of the above. |
 | [teoria : Music Theory Web](https://www.questtree.net/resources/arts-music-music-performance-https-www-teoria-com-3rdaru) | Web site dedicated to the study of Music Theory. Articles, reference, interactive exercises. |
 
-### Arts & Music · Music Production Technology
+<h3 id="arts--music--music-production-technology">Arts &amp; Music · Music Production Technology</h3>
 
 | Title | Description |
 | --- | --- |
@@ -135,7 +135,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Studio One - YouTube](https://www.questtree.net/resources/arts-music-music-production-technology-splice-tutorials-playlist-37b3g4) | Share your videos with friends, family, and the world |
 | [The Fundamentals of Synthesizer Programming Pt. 1](https://www.questtree.net/resources/arts-music-music-production-technology-beginner-synthesizer-basics-b5bda9) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 
-### Arts & Music · Music Theory Composition
+<h3 id="arts--music--music-theory-composition">Arts &amp; Music · Music Theory Composition</h3>
 
 | Title | Description |
 | --- | --- |
@@ -149,7 +149,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Simply Piano \| Feel the joy of playing piano](https://www.questtree.net/resources/arts-music-music-theory-composition-simply-piano-yousician-apps-with-web-components-90wg8c) | Progress at your own pace with tailored lessons and real-time feedback. Gain the skills you need to play the songs you love with our piano learning app. |
 | [What Is Music Theory?](https://www.questtree.net/resources/arts-music-music-theory-composition-12tone-pxg6dv) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 
-### Arts & Music · Performing Arts
+<h3 id="arts--music--performing-arts">Arts &amp; Music · Performing Arts</h3>
 
 | Title | Description |
 | --- | --- |
@@ -164,7 +164,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [TED: Ideas change everything](https://www.questtree.net/resources/arts-music-performing-arts-ted-com-eep40f) | TED.com offers a vast library of influential video talks from expert speakers across various subjects like science, tech, business, and creativity. These talks are designed to spark new ideas and are available with subtitles in over 100 languages, making them accessible for global learning and personal development. |
 | [The Joffrey Ballet - YouTube](https://www.questtree.net/resources/arts-music-performing-arts-the-joffrey-ballet-youtube-n5rmjn) | The Joffrey Ballet is one of the premier dance companies in the world today, with a reputation for boundary-breaking performances over the last 69 years. The... |
 
-### Arts & Music · Visual Arts
+<h3 id="arts--music--visual-arts">Arts &amp; Music · Visual Arts</h3>
 
 | Title | Description |
 | --- | --- |

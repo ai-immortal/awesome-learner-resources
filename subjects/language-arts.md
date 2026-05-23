@@ -8,20 +8,20 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Language Arts · Grammar Usage](#language-arts-grammar-usage)
-- [Language Arts · Language Structure Conventions](#language-arts-language-structure-conventions)
-- [Language Arts · Literary Response Analysis](#language-arts-literary-response-analysis)
-- [Language Arts · Mechanics Conventions](#language-arts-mechanics-conventions)
-- [Language Arts · Media Literacy Digital Communication](#language-arts-media-literacy-digital-communication)
-- [Language Arts · Oral Language Communication](#language-arts-oral-language-communication)
-- [Language Arts · Reading Comprehension Strategies](#language-arts-reading-comprehension-strategies)
-- [Language Arts · Vocabulary Word Study](#language-arts-vocabulary-word-study)
-- [Language Arts · Writing Composition Process](#language-arts-writing-composition-process)
-- [Language Arts · Writing Genres Forms](#language-arts-writing-genres-forms)
+- [Language Arts · Grammar Usage](#language-arts--grammar-usage)
+- [Language Arts · Language Structure Conventions](#language-arts--language-structure-conventions)
+- [Language Arts · Literary Response Analysis](#language-arts--literary-response-analysis)
+- [Language Arts · Mechanics Conventions](#language-arts--mechanics-conventions)
+- [Language Arts · Media Literacy Digital Communication](#language-arts--media-literacy-digital-communication)
+- [Language Arts · Oral Language Communication](#language-arts--oral-language-communication)
+- [Language Arts · Reading Comprehension Strategies](#language-arts--reading-comprehension-strategies)
+- [Language Arts · Vocabulary Word Study](#language-arts--vocabulary-word-study)
+- [Language Arts · Writing Composition Process](#language-arts--writing-composition-process)
+- [Language Arts · Writing Genres Forms](#language-arts--writing-genres-forms)
 
 89 resources
 
-### Language Arts · Grammar Usage
+<h3 id="language-arts--grammar-usage">Language Arts · Grammar Usage</h3>
 
 | Title | Description |
 | --- | --- |
@@ -38,7 +38,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Synonyms and Antonyms of Words \| Thesaurus.com](https://www.questtree.net/resources/language-arts-grammar-usage-thesaurus-com-v6u8p4) | Thesaurus.com is the world's largest and most trusted online thesaurus for 25+ years. Join millions of people and grow your mastery of the English language. |
 | [Welcome to the Purdue OWL -  			 Purdue OWL® -  Purdue University](https://www.questtree.net/resources/language-arts-grammar-usage-purdue-owl-purdue-university-za0hh7) | The Purdue OWL offers a comprehensive range of free writing resources and instructional materials for students, community members, and users worldwide. It aims to assist individuals at all skill levels in developing their writing abilities through on-campus consultations, online participation, and global reference materials. |
 
-### Language Arts · Language Structure Conventions
+<h3 id="language-arts--language-structure-conventions">Language Arts · Language Structure Conventions</h3>
 
 | Title | Description |
 | --- | --- |
@@ -53,7 +53,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Thesaurus and Word Tools \| WordHippo](https://www.questtree.net/resources/language-arts-language-structure-conventions-word-hippo-9exsce) | Thesaurus and word tools for your creative needs. Find the word you're looking for! |
 | [Vocabulary.com - Learn Words - English Dictionary](https://www.questtree.net/resources/language-arts-language-structure-conventions-vocabulary-com-phdets) | Vocabulary.com helps you learn new words, play games that improve your vocabulary, and explore language. |
 
-### Language Arts · Literary Response Analysis
+<h3 id="language-arts--literary-response-analysis">Language Arts · Literary Response Analysis</h3>
 
 | Title | Description |
 | --- | --- |
@@ -69,7 +69,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Welcome to the Purdue OWL -  			 Purdue OWL® -  Purdue University](https://www.questtree.net/resources/language-arts-literary-response-analysis-literary-theory-literary-terms-l3cjgy) | The Purdue OWL houses writing resources and instructional material, and we provide these as a free service at Purdue. Students, members of the community, and users worldwide will find information to assist with many writing projects. Teachers and trainers may use this material for in-class and out-of-class instruction. |
 | [Writing a Literary Analysis](https://www.questtree.net/resources/language-arts-literary-response-analysis-writing-literary-analysis-essays-25fnrv) | This resource provides a comprehensive guide from Purdue OWL on how to write effective literary analysis essays. It breaks down the process into manageable steps, offering advice on understanding assignments, developing a thesis, and structuring arguments. |
 
-### Language Arts · Mechanics Conventions
+<h3 id="language-arts--mechanics-conventions">Language Arts · Mechanics Conventions</h3>
 
 | Title | Description |
 | --- | --- |
@@ -80,7 +80,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Mobile \| Quizlet](https://www.questtree.net/resources/language-arts-mechanics-conventions-app-store-google-play-5iy2ex) | Quizlet has study tools to help you learn anything. Improve your grades and reach your goals with flashcards, practice tests and expert-written solutions today. |
 | [Purdue OWL - YouTube](https://www.questtree.net/resources/language-arts-mechanics-conventions-purdue-owl-on-youtube-chbyf0) | This channel is the official YouTube channel for the Purdue Online Writing Lab (OWL). You are free to link to these videos for your own educational purposes ... |
 
-### Language Arts · Media Literacy Digital Communication
+<h3 id="language-arts--media-literacy-digital-communication">Language Arts · Media Literacy Digital Communication</h3>
 
 | Title | Description |
 | --- | --- |
@@ -96,7 +96,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Learning Network - The New York Times](https://www.questtree.net/resources/language-arts-media-literacy-digital-communication-new-york-times-learning-network-s99npr) | Free resources for teaching and learning with The Times |
 | [The News Literacy Project](https://www.questtree.net/resources/language-arts-media-literacy-digital-communication-https-newslit-org-80zzl0) | Get news literacy resources that help you teach media literacy education. Join the News Literacy Project to strengthen critical thinking and spot misinformation |
 
-### Language Arts · Oral Language Communication
+<h3 id="language-arts--oral-language-communication">Language Arts · Oral Language Communication</h3>
 
 | Title | Description |
 | --- | --- |
@@ -109,7 +109,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Toastmasters International -Resources](https://www.questtree.net/resources/language-arts-oral-language-communication-toastmasters-articles-resources-v7a6jo) | View Toastmasters latest resources that help our members on their path to become future leaders. |
 | [Why Do Cells Need to Communicate?: Crash Course Biology #25](https://www.questtree.net/resources/language-arts-oral-language-communication-why-do-cells-need-to-communicate-crash-course-biology-25-dndyda) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 
-### Language Arts · Reading Comprehension Strategies
+<h3 id="language-arts--reading-comprehension-strategies">Language Arts · Reading Comprehension Strategies</h3>
 
 | Title | Description |
 | --- | --- |
@@ -121,7 +121,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [TED-Ed - YouTube](https://www.questtree.net/resources/language-arts-reading-comprehension-strategies-teded-youtube-channel-2joxkh) | TED-Ed’s mission is to create lessons worth sharing. Feed and expand your curiosity with our award-winning animated shorts - published on YouTube and availab... |
 | [The New York Times - Breaking News, US News, World News and Videos](https://www.questtree.net/resources/language-arts-reading-comprehension-strategies-news-apps-with-summaries-analysis-vyzaux) | Live news, investigations, opinion, photos and video by the journalists of The New York Times from more than 150 countries around the world. Subscribe for coverage of U.S. and international news, politics, business, technology, science, health, arts, sports and more. |
 
-### Language Arts · Vocabulary Word Study
+<h3 id="language-arts--vocabulary-word-study">Language Arts · Vocabulary Word Study</h3>
 
 | Title | Description |
 | --- | --- |
@@ -133,7 +133,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [TED-Ed Weekend Student Talks - YouTube](https://www.questtree.net/resources/language-arts-vocabulary-word-study-ted-ed-s-why-word-series-529wmw) | Share your videos with friends, family, and the world |
 | [Vocabulary - YouTube](https://www.questtree.net/resources/language-arts-vocabulary-word-study-englishvocabularylessons-8caux) | Share your videos with friends, family, and the world |
 
-### Language Arts · Writing Composition Process
+<h3 id="language-arts--writing-composition-process">Language Arts · Writing Composition Process</h3>
 
 | Title | Description |
 | --- | --- |
@@ -146,7 +146,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Writer - Advice and inspiration for today's writer](https://www.questtree.net/resources/language-arts-writing-composition-process-the-writer-4g8cy5) | Advice and inspiration for today's writer |
 | [The Writer's Diet: test, app and book](https://www.questtree.net/resources/language-arts-writing-composition-process-http-writersdiet-com-y2h4qi) | Learn how to make your prose perform at its peak with The Writer's Diet test, app and book developed by writing expert Helen Sword. |
 
-### Language Arts · Writing Genres Forms
+<h3 id="language-arts--writing-genres-forms">Language Arts · Writing Genres Forms</h3>
 
 | Title | Description |
 | --- | --- |

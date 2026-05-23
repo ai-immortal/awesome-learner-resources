@@ -8,27 +8,27 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Languages · Arabic](#languages-arabic)
-- [Languages · Dutch Nederlands](#languages-dutch-nederlands)
-- [Languages · English](#languages-english)
-- [Languages · French Fran Ais](#languages-french-fran-ais)
-- [Languages · German Deutsch](#languages-german-deutsch)
-- [Languages · Greek](#languages-greek)
-- [Languages · Hindi](#languages-hindi)
-- [Languages · Italian Italiano](#languages-italian-italiano)
-- [Languages · Japanese](#languages-japanese)
-- [Languages · Korean](#languages-korean)
-- [Languages · Mandarin Chinese](#languages-mandarin-chinese)
-- [Languages · Polish Polski](#languages-polish-polski)
-- [Languages · Portuguese Portugu S](#languages-portuguese-portugu-s)
-- [Languages · Russian](#languages-russian)
-- [Languages · Spanish Espa Ol](#languages-spanish-espa-ol)
-- [Languages · Swedish Svenska](#languages-swedish-svenska)
-- [Languages · Turkish T Rk E](#languages-turkish-t-rk-e)
+- [Languages · Arabic](#languages--arabic)
+- [Languages · Dutch Nederlands](#languages--dutch-nederlands)
+- [Languages · English](#languages--english)
+- [Languages · French Fran Ais](#languages--french-fran-ais)
+- [Languages · German Deutsch](#languages--german-deutsch)
+- [Languages · Greek](#languages--greek)
+- [Languages · Hindi](#languages--hindi)
+- [Languages · Italian Italiano](#languages--italian-italiano)
+- [Languages · Japanese](#languages--japanese)
+- [Languages · Korean](#languages--korean)
+- [Languages · Mandarin Chinese](#languages--mandarin-chinese)
+- [Languages · Polish Polski](#languages--polish-polski)
+- [Languages · Portuguese Portugu S](#languages--portuguese-portugu-s)
+- [Languages · Russian](#languages--russian)
+- [Languages · Spanish Espa Ol](#languages--spanish-espa-ol)
+- [Languages · Swedish Svenska](#languages--swedish-svenska)
+- [Languages · Turkish T Rk E](#languages--turkish-t-rk-e)
 
 98 resources
 
-### Languages · Arabic
+<h3 id="languages--arabic">Languages · Arabic</h3>
 
 | Title | Description |
 | --- | --- |
@@ -39,7 +39,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Arabic with lessons that work - Duolingo](https://www.questtree.net/resources/language-arabic-duolingo-arabic-q7azx2) | Our free, fun, and effective course helps you learn Arabic with quick, science-based lessons personalized to you. |
 | [LearnArabicwithMaha - YouTube](https://www.questtree.net/resources/language-arabic-learn-arabic-with-maha-476vj6) | Arabic Made Fun!LearnArabicwithMaha and is about spreading knowledge on Arabic Language, Culture , Middle Eastern Cuisine and Tourism. ​​ Maha’s open mindedn... |
 
-### Languages · Dutch Nederlands
+<h3 id="languages--dutch-nederlands">Languages · Dutch Nederlands</h3>
 
 | Title | Description |
 | --- | --- |
@@ -48,7 +48,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Dutch Online - Free online Dutch courses](https://www.questtree.net/resources/language-dutch-nederlands-learn-dutch-with-bart-de-pau-9y82rz) | Leanr Dutch with Bart de Pau's award-winning online video courses. Online exercises, vocabulary lists, video lessons, virtual classrooms. All levels. |
 | [Learn Dutch with Niels! - YouTube](https://www.questtree.net/resources/language-dutch-nederlands-learn-dutch-with-niels-ey3xyy) | Learn commonly used Dutch sentence structures and take your Dutch to the next level with me, Niels! My videos will take you beyond the first steps, and the focus is always on producing sentences yourself, so that you can become more flexible and autonomous when speaking Dutch. I'm a former Dutch teacher who does not want to completely say goodbye to his old job. |
 
-### Languages · English
+<h3 id="languages--english">Languages · English</h3>
 
 | Title | Description |
 | --- | --- |
@@ -59,7 +59,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn English With TV Series - YouTube](https://www.questtree.net/resources/language-english-learn-english-with-tv-series-ee0w8k) | Are you ready to have a lot of fun learning real-life English with "Learn English with TV Series?"On this channel, we will practice and improve our listening... |
 | [Learning English \| Cambridge English \|     Learning English \| Cambridge English](https://www.questtree.net/resources/language-english-cambridge-learning-english-nlasv8) | Learn English with our free online listening, grammar, vocabulary and reading activities. Practise your English and get ready for your Cambridge English exam. |
 
-### Languages · French Fran Ais
+<h3 id="languages--french-fran-ais">Languages · French Fran Ais</h3>
 
 | Title | Description |
 | --- | --- |
@@ -70,7 +70,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn French with lessons that work - Duolingo](https://www.questtree.net/resources/language-french-fran-ais-duolingo-french-h5kctb) | Our free, fun, and effective course helps you learn French with quick, science-based lessons personalized to you. |
 | [Piece of French - YouTube](https://www.questtree.net/resources/language-french-fran-ais-piece-of-french-ouiqzi) | ⬇️ Take the French Learner Journey Quiz 🧭Discover where you are on your French learning journey and what to focus on next.Salut, I'm Elsa 🙋🏻‍♀️ I was born... |
 
-### Languages · German Deutsch
+<h3 id="languages--german-deutsch">Languages · German Deutsch</h3>
 
 | Title | Description |
 | --- | --- |
@@ -78,7 +78,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Easy German - YouTube](https://www.questtree.net/resources/language-german-deutsch-easy-german-csh0fd) | Learn German naturally and understand real German spoken by native speakers. 🇩🇪Easy German is the world’s largest YouTube channel for learning German. We h... |
 | [Learn German with lessons that work - Duolingo](https://www.questtree.net/resources/language-german-deutsch-duolingo-german-rg52f4) | Our free, fun, and effective course helps you learn German with quick, science-based lessons personalized to you. |
 
-### Languages · Greek
+<h3 id="languages--greek">Languages · Greek</h3>
 
 | Title | Description |
 | --- | --- |
@@ -86,7 +86,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Greek Online - GreekPod101](https://www.questtree.net/resources/language-greek-greekpod101-2v7nvv) | The fastest, easiest, and most fun way to learn Greek and Greek culture. Start speaking Greek in minutes with audio and video lessons, audio dictionary, and learning community! |
 | [Learn Greek with lessons that work - Duolingo](https://www.questtree.net/resources/language-greek-duolingo-greek-jojr34) | Our free, fun, and effective course helps you learn Greek with quick, science-based lessons personalized to you. |
 
-### Languages · Hindi
+<h3 id="languages--hindi">Languages · Hindi</h3>
 
 | Title | Description |
 | --- | --- |
@@ -97,7 +97,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Hindi with HindiPod101.com - YouTube](https://www.questtree.net/resources/language-hindi-hindipod101-youtube-247fz2) | Learn Hindi with HindiPod101.com - The Fastest, Easiest and Most Fun Way to Learn Hindi :)Start speaking Hindi in minutes with Audio and Video lessons.HindiP... |
 | [Learn Hindi with lessons that work - Duolingo](https://www.questtree.net/resources/language-hindi-duolingo-hindi-tw873c) | Our free, fun, and effective course helps you learn Hindi with quick, science-based lessons personalized to you. |
 
-### Languages · Italian Italiano
+<h3 id="languages--italian-italiano">Languages · Italian Italiano</h3>
 
 | Title | Description |
 | --- | --- |
@@ -107,7 +107,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [LearnAmo - YouTube](https://www.questtree.net/resources/language-italian-italiano-learnamo-dggxnk) | 🇮🇹 Welcome to LearnAmo! Your school to learn Italian in a fun and effective way! 🇮🇹If you want to improve your grammar, expand your vocabulary, and disco... |
 | [Podcast Italiano - Impara l'italiano, per davvero](https://www.questtree.net/resources/language-italian-italiano-podcast-italiano-r8ieko) | Impara l'italiano e scopri la cultura italiana attraverso podcast e video su argomenti appassionanti. |
 
-### Languages · Japanese
+<h3 id="languages--japanese">Languages · Japanese</h3>
 
 | Title | Description |
 | --- | --- |
@@ -118,7 +118,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Japanese with lessons that work - Duolingo](https://www.questtree.net/resources/language-japanese-duolingo-japanese-gj16qp) | Our free, fun, and effective course helps you learn Japanese with quick, science-based lessons personalized to you. |
 | [Miku Real Japanese - YouTube](https://www.questtree.net/resources/language-japanese-miku-real-japanese-80wucq) | Hi, I'm Miku. My mission is to teach Japanese in fun and effective way!I'd like to connect Japan and the world.I hope my videos can help people who love Japa... |
 
-### Languages · Korean
+<h3 id="languages--korean">Languages · Korean</h3>
 
 | Title | Description |
 | --- | --- |
@@ -128,7 +128,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Talk To Me In Korean - YouTube](https://www.questtree.net/resources/language-korean-ttmik-youtube-tdlpav) | We’ve been connecting people through Korean lessons and cultural videos since 2009!🇰🇷If you’re ready to learn Korean more seriously, check out our online c... |
 | [Talk To Me In Korean Courses](https://www.questtree.net/resources/language-korean-talk-to-me-in-korean-lz4gyj) | Master Korean step by step with Talk To Me In Korean. Join thousands of learners worldwide in fun, practical, and level-based online lessons for all levels. |
 
-### Languages · Mandarin Chinese
+<h3 id="languages--mandarin-chinese">Languages · Mandarin Chinese</h3>
 
 | Title | Description |
 | --- | --- |
@@ -149,7 +149,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Tingting Comprehensible Chinese - YouTube](https://www.questtree.net/resources/language-mandarin-chinese-comprehensible-chinese-bonuay) | STOP MEMORIZING. START ACQUIRING CHINESE VIA STORY! Hi, I'm Tingting! 👋Professional Chinese Teacher (Master's Degree & 10+ Years Exp.) turned Storyteller. ?... |
 | [Yoyo Chinese - YouTube](https://www.questtree.net/resources/language-mandarin-chinese-yoyo-chinese-youtube-czfssg) | Learning Chinese doesn't have to feel impossible! We offer structured and comprehensive online courses with 1,000+ video lessons that capture real life scena... |
 
-### Languages · Polish Polski
+<h3 id="languages--polish-polski">Languages · Polish Polski</h3>
 
 | Title | Description |
 | --- | --- |
@@ -158,7 +158,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [MrRealPolish - YouTube](https://www.questtree.net/resources/language-polish-polski-real-polish-youtube-4fevbt) | Learn Real Polish Language is a place for people who are keen on learning Polish. Here you can find lots of great stuff for Polish learners, free online podcast -- all with Polish audio and text. |
 | [Real Polish – Choose Your Path - Learn Polish Language Online Resource](https://www.questtree.net/resources/language-polish-polski-real-polish-njrdvh) | Real Polish is an online resource for learning the Polish language, offering structured paths for beginners, a year-long routine, and cultural immersion through stories and history. Learners can access free podcasts with audio and text, join live online meetings, and engage with a community space. |
 
-### Languages · Portuguese Portugu S
+<h3 id="languages--portuguese-portugu-s">Languages · Portuguese Portugu S</h3>
 
 | Title | Description |
 | --- | --- |
@@ -168,7 +168,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Portuguese with lessons that work - Duolingo](https://www.questtree.net/resources/language-portuguese-portugu-s-duolingo-portuguese-nbzeb6) | Our free, fun, and effective course helps you learn Portuguese with quick, science-based lessons personalized to you. |
 | [Speaking Brazilian Language School - YouTube](https://www.questtree.net/resources/language-portuguese-portugu-s-speaking-brazilian-t8n4e3) | Olá! I'm Virginia Langhammer, your Brazilian teacher. Welcome to my channel! I created this channel to help you learn authentic Brazilian Portuguese.I publis... |
 
-### Languages · Russian
+<h3 id="languages--russian">Languages · Russian</h3>
 
 | Title | Description |
 | --- | --- |
@@ -178,7 +178,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Russian with RussianPod101.com - YouTube](https://www.questtree.net/resources/language-russian-russianpod101-youtube-m5pcyn) | Learn Russian with RussianPod101.com - The Fastest, Easiest and Most Fun Way to Learn Russian. :)Start speaking Russian in minutes with Audio and Video lesso... |
 | [Learn the Russian Alphabet with the Free eBook - RussianPod101](https://www.questtree.net/resources/language-russian-russian-alphabet-mastery-russianpod101-z85l4w) | Learn everything you need to know about the Russian alphabet. Learn the basics for writing and reading in Russian with the free eBook at RussianPod101! |
 
-### Languages · Spanish Espa Ol
+<h3 id="languages--spanish-espa-ol">Languages · Spanish Espa Ol</h3>
 
 | Title | Description |
 | --- | --- |
@@ -194,7 +194,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Spanish After Hours - YouTube](https://www.questtree.net/resources/language-spanish-espa-ol-spanish-after-hours-a4qb6u) | ⬇️ Click Here to join my Free Community! ☀️ |
 | [SpanishDictionary.com \| English to Spanish Translation, Dictionary, Translator](https://www.questtree.net/resources/language-spanish-espa-ol-spanishdict-shjec8) | The world's most popular Spanish translation website. Over 1 million words and phrases. Free. Easy. Accurate. |
 
-### Languages · Swedish Svenska
+<h3 id="languages--swedish-svenska">Languages · Swedish Svenska</h3>
 
 | Title | Description |
 | --- | --- |
@@ -202,7 +202,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Learn Swedish Online - SwedishPod101](https://www.questtree.net/resources/language-swedish-svenska-swedishpod101-ejlxnq) | The fastest, easiest, and most fun way to learn Swedish and Swedish culture. Start speaking Swedish in minutes with audio and video lessons, audio dictionary, and learning community! |
 | [Learn Swedish with lessons that work - Duolingo](https://www.questtree.net/resources/language-swedish-svenska-duolingo-swedish-jro79d) | Our free, fun, and effective course helps you learn Swedish with quick, science-based lessons personalized to you. |
 
-### Languages · Turkish T Rk E
+<h3 id="languages--turkish-t-rk-e">Languages · Turkish T Rk E</h3>
 
 | Title | Description |
 | --- | --- |

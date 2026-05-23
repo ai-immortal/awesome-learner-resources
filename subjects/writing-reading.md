@@ -8,20 +8,20 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Writing & Reading · Academic Expository Writing](#writing-reading-academic-expository-writing)
-- [Writing & Reading · Creative Writing](#writing-reading-creative-writing)
-- [Writing & Reading · Digital Multimodal Literacy](#writing-reading-digital-multimodal-literacy)
-- [Writing & Reading · Grammar Mechanics Usage](#writing-reading-grammar-mechanics-usage)
-- [Writing & Reading · Literary Analysis Interpretation](#writing-reading-literary-analysis-interpretation)
-- [Writing & Reading · Literature Cultural Studies](#writing-reading-literature-cultural-studies)
-- [Writing & Reading · Professional Specialized Writing](#writing-reading-professional-specialized-writing)
-- [Writing & Reading · Reading Foundations Comprehension](#writing-reading-reading-foundations-comprehension)
-- [Writing & Reading · Rhetoric Communication](#writing-reading-rhetoric-communication)
-- [Writing & Reading · Writing Process Craft](#writing-reading-writing-process-craft)
+- [Writing & Reading · Academic Expository Writing](#writing--reading--academic-expository-writing)
+- [Writing & Reading · Creative Writing](#writing--reading--creative-writing)
+- [Writing & Reading · Digital Multimodal Literacy](#writing--reading--digital-multimodal-literacy)
+- [Writing & Reading · Grammar Mechanics Usage](#writing--reading--grammar-mechanics-usage)
+- [Writing & Reading · Literary Analysis Interpretation](#writing--reading--literary-analysis-interpretation)
+- [Writing & Reading · Literature Cultural Studies](#writing--reading--literature-cultural-studies)
+- [Writing & Reading · Professional Specialized Writing](#writing--reading--professional-specialized-writing)
+- [Writing & Reading · Reading Foundations Comprehension](#writing--reading--reading-foundations-comprehension)
+- [Writing & Reading · Rhetoric Communication](#writing--reading--rhetoric-communication)
+- [Writing & Reading · Writing Process Craft](#writing--reading--writing-process-craft)
 
 87 resources
 
-### Writing & Reading · Academic Expository Writing
+<h3 id="writing--reading--academic-expository-writing">Writing &amp; Reading · Academic Expository Writing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -34,7 +34,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Welcome to the Purdue OWL -  			 Purdue OWL® -  Purdue University](https://www.questtree.net/resources/writing-reading-academic-expository-writing-https-owl-purdue-edu-owl-purdue-owl-html-za0hh7) | The Purdue OWL houses writing resources and instructional material, and we provide these as a free service at Purdue. Students, members of the community, and users worldwide will find information to assist with many writing projects. Teachers and trainers may use this material for in-class and out-of-class instruction. |
 | [Your Go-To Guide for English Grammar \| Grammarly](https://www.questtree.net/resources/writing-reading-academic-expository-writing-https-www-grammarly-com-grammar-my4pd3) | Bookmark our handy resources to get a better understanding of English grammar topics like syntax, mechanics, and punctuation. |
 
-### Writing & Reading · Creative Writing
+<h3 id="writing--reading--creative-writing">Writing &amp; Reading · Creative Writing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -53,7 +53,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Scribophile: The writing group and online writing workshop for serious writers \| Scribophile](https://www.questtree.net/resources/writing-reading-creative-writing-https-www-scribophile-com-p09bho) | The online writing group, writing workshop, and writing community where writers exchange critiques and feedback on their writing. |
 | [Writing Excuses  - YouTube](https://www.questtree.net/resources/writing-reading-creative-writing-the-moth-youtube-channel-7vx1sz) | Share your videos with friends, family, and the world |
 
-### Writing & Reading · Digital Multimodal Literacy
+<h3 id="writing--reading--digital-multimodal-literacy">Writing &amp; Reading · Digital Multimodal Literacy</h3>
 
 | Title | Description |
 | --- | --- |
@@ -70,7 +70,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [TEDx Talks - YouTube](https://www.questtree.net/resources/writing-reading-digital-multimodal-literacy-ted-talks-6yf4sm) | TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global... |
 | [The Oatmeal - Comics by Matthew Inman](https://www.questtree.net/resources/writing-reading-digital-multimodal-literacy-the-oatmeal-e3kla1) | The Oatmeal offers a collection of humorous and informative webcomics that often delve into various topics with a unique, engaging style. Learners can find content that entertains while subtly educating on subjects ranging from science and technology to social issues and everyday observations. |
 
-### Writing & Reading · Grammar Mechanics Usage
+<h3 id="writing--reading--grammar-mechanics-usage">Writing &amp; Reading · Grammar Mechanics Usage</h3>
 
 | Title | Description |
 | --- | --- |
@@ -85,7 +85,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Quizlet: Study tools & learning resources for students and teachers \| Quizlet](https://www.questtree.net/resources/writing-reading-grammar-mechanics-usage-https-quizlet-com-qscnz9) | Quizlet makes learning fun and easy with free flashcards and premium study tools. Join millions of students and teachers who use Quizlet to create, share, and learn any subject. |
 | [SimpleMind Mind Mapping - World leader in Mind Mapping](https://www.questtree.net/resources/writing-reading-grammar-mechanics-usage-npr-podcasts-nkf6c5) | SimpleMind is the world leader in cross-platform Mind Mapping tools. One-time payment per platform, no subscriptions. Try now! |
 
-### Writing & Reading · Literary Analysis Interpretation
+<h3 id="writing--reading--literary-analysis-interpretation">Writing &amp; Reading · Literary Analysis Interpretation</h3>
 
 | Title | Description |
 | --- | --- |
@@ -97,7 +97,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [LitCharts \| From the creators of SparkNotes, something better.](https://www.questtree.net/resources/writing-reading-literary-analysis-interpretation-https-www-litcharts-com-jtr2yv) | From the creators of SparkNotes, something better. Understand more, faster. Free! |
 | [Literary Devices and Literary Terms - The Complete List](https://www.questtree.net/resources/writing-reading-literary-analysis-interpretation-https-literarydevices-net-3za51j) | This resource provides a comprehensive list of literary devices and terms, complete with definitions, examples, and usage tips. Learners can explore each device in depth through literary examples. |
 
-### Writing & Reading · Literature Cultural Studies
+<h3 id="writing--reading--literature-cultural-studies">Writing &amp; Reading · Literature Cultural Studies</h3>
 
 | Title | Description |
 | --- | --- |
@@ -109,7 +109,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Wikipedia, the free encyclopedia](https://www.questtree.net/resources/writing-reading-literature-cultural-studies-https-en-wikipedia-org-wiki-main-page-dd3bn6) | Wikipedia provides a vast, free encyclopedia covering a wide range of topics relevant to literature and cultural studies. Learners can access articles, in-depth information, and cross-references to explore various literary works, historical contexts, and cultural movements. |
 | [WIRED - The Latest in Technology, Science, Culture and Business \| WIRED](https://www.questtree.net/resources/writing-reading-literature-cultural-studies-wired-6iwy2c) | We bring you the future as it happens. From the latest in science and technology to the big stories in business and culture, we've got you covered. |
 
-### Writing & Reading · Professional Specialized Writing
+<h3 id="writing--reading--professional-specialized-writing">Writing &amp; Reading · Professional Specialized Writing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -124,7 +124,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Volunteering, Nonprofit Jobs, and Community - Idealist](https://www.questtree.net/resources/writing-reading-professional-specialized-writing-https-www-idealist-org-78tk3m) | Find volunteer opportunities, nonprofit jobs, social-impact opportunities and more on the Idealist platform. |
 | [Welcome to the Purdue OWL -  			 Purdue OWL® -  Purdue University](https://www.questtree.net/resources/writing-reading-professional-specialized-writing-online-writing-lab-l3cjgy) | The Purdue OWL houses writing resources and instructional material, and we provide these as a free service at Purdue. Students, members of the community, and users worldwide will find information to assist with many writing projects. Teachers and trainers may use this material for in-class and out-of-class instruction. |
 
-### Writing & Reading · Reading Foundations Comprehension
+<h3 id="writing--reading--reading-foundations-comprehension">Writing &amp; Reading · Reading Foundations Comprehension</h3>
 
 | Title | Description |
 | --- | --- |
@@ -139,7 +139,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Vocab Builder - YouTube](https://www.questtree.net/resources/writing-reading-reading-foundations-comprehension-youtube-channel-a56qyb) | Through Vocab Builder: Learn Latin and Greek Root words, Prefixes and Suffixes along with etymology - is a channel which intends to provide free English reso... |
 | [Vocabulary.com - Learn Words - English Dictionary](https://www.questtree.net/resources/writing-reading-reading-foundations-comprehension-app-store-google-play-phdets) | Vocabulary.com helps you learn new words, play games that improve your vocabulary, and explore language. |
 
-### Writing & Reading · Rhetoric Communication
+<h3 id="writing--reading--rhetoric-communication">Writing &amp; Reading · Rhetoric Communication</h3>
 
 | Title | Description |
 | --- | --- |
@@ -150,7 +150,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The RSA - YouTube](https://www.questtree.net/resources/writing-reading-rhetoric-communication-rsa-channel-h4dqne) | The home of ideas: where people drive real changeFor generations, we have brought together people with the vision and drive to improve the world. From pionee... |
 | [The School of Life - YouTube](https://www.questtree.net/resources/writing-reading-rhetoric-communication-the-school-of-life-ilij3d) | Self-understanding, calm and emotional maturity.All our content is available on our app and website: www.theschooloflife.comWe offer online psychotherapy: ww... |
 
-### Writing & Reading · Writing Process Craft
+<h3 id="writing--reading--writing-process-craft">Writing &amp; Reading · Writing Process Craft</h3>
 
 | Title | Description |
 | --- | --- |

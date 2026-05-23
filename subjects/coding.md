@@ -8,24 +8,24 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Coding · Algorithms Data Structures](#coding-algorithms-data-structures)
-- [Coding · Apis Integration](#coding-apis-integration)
-- [Coding · Computational Thinking Problem Solving](#coding-computational-thinking-problem-solving)
-- [Coding · Cybersecurity Safe Coding](#coding-cybersecurity-safe-coding)
-- [Coding · Data Databases](#coding-data-databases)
-- [Coding · Data Science Analytics](#coding-data-science-analytics)
-- [Coding · Game Development](#coding-game-development)
-- [Coding · Mobile App Development](#coding-mobile-app-development)
-- [Coding · Object Oriented Programming Oop](#coding-object-oriented-programming-oop)
-- [Coding · Professional Skills Career](#coding-professional-skills-career)
-- [Coding · Programming Fundamentals](#coding-programming-fundamentals)
-- [Coding · Programming Languages Syntax](#coding-programming-languages-syntax)
-- [Coding · Software Development Practices](#coding-software-development-practices)
-- [Coding · Web Development](#coding-web-development)
+- [Coding · Algorithms Data Structures](#coding--algorithms-data-structures)
+- [Coding · Apis Integration](#coding--apis-integration)
+- [Coding · Computational Thinking Problem Solving](#coding--computational-thinking-problem-solving)
+- [Coding · Cybersecurity Safe Coding](#coding--cybersecurity-safe-coding)
+- [Coding · Data Databases](#coding--data-databases)
+- [Coding · Data Science Analytics](#coding--data-science-analytics)
+- [Coding · Game Development](#coding--game-development)
+- [Coding · Mobile App Development](#coding--mobile-app-development)
+- [Coding · Object Oriented Programming Oop](#coding--object-oriented-programming-oop)
+- [Coding · Professional Skills Career](#coding--professional-skills-career)
+- [Coding · Programming Fundamentals](#coding--programming-fundamentals)
+- [Coding · Programming Languages Syntax](#coding--programming-languages-syntax)
+- [Coding · Software Development Practices](#coding--software-development-practices)
+- [Coding · Web Development](#coding--web-development)
 
 181 resources
 
-### Coding · Algorithms Data Structures
+<h3 id="coding--algorithms-data-structures">Coding · Algorithms Data Structures</h3>
 
 | Title | Description |
 | --- | --- |
@@ -43,7 +43,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [System Design Shorts - YouTube](https://www.questtree.net/resources/coding-ai-algorithms-data-structures-data-structures-and-algorithms-course-ixex39) | Share your videos with friends, family, and the world |
 | [visualising data structures and algorithms through animation - VisuAlgo](https://www.questtree.net/resources/coding-ai-algorithms-data-structures-https-visualgo-net-gyipxl) | VisuAlgo was conceptualised in 2011 by Associate Professor Steven Halim (NUS School of Computing) as a tool to help his students better understand data structures and algorithms, by allowing them to learn the basics on their own and at their own pace. Together with his students from the National University of Singapore, a series of visualizations were developed and consolidated, from simple sorting algorithms to complex graph data structures. Though specifically designed for the use of NUS students taking various data structure and algorithm classes (CS1010/equivalent, CS2040/equivalent (inclusive of IT5003)), CS3230, CS3233, and CS4234), as advocators of online learning, we hope that curious minds around the world will find these visualizations useful as well. |
 
-### Coding · Apis Integration
+<h3 id="coding--apis-integration">Coding · Apis Integration</h3>
 
 | Title | Description |
 | --- | --- |
@@ -64,7 +64,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [What is a RESTful API? \| Creating a REST API with Node.js](https://www.questtree.net/resources/coding-ai-apis-integration-rest-apis-explained-txo7cd) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [Zapier Guides \| Zapier](https://www.questtree.net/resources/coding-ai-apis-integration-zapier-learn-n20524) | Educational resources to move your work forward. Discover guides on automation, AI strategy, lead management, marketing, and more. |
 
-### Coding · Computational Thinking Problem Solving
+<h3 id="coding--computational-thinking-problem-solving">Coding · Computational Thinking Problem Solving</h3>
 
 | Title | Description |
 | --- | --- |
@@ -80,7 +80,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [LightBot](https://www.questtree.net/resources/coding-ai-computational-thinking-problem-solving-lightbot-xza5d9) | Coding made Kid-Friendly |
 | [The Coding Train](https://www.questtree.net/resources/coding-ai-computational-thinking-problem-solving-https-thecodingtrain-com-g30m3k) | All aboard the Coding Train with Daniel Shiffman, a YouTube channel dedicated to beginner-friendly creative coding tutorials and challenges. |
 
-### Coding · Cybersecurity Safe Coding
+<h3 id="coding--cybersecurity-safe-coding">Coding · Cybersecurity Safe Coding</h3>
 
 | Title | Description |
 | --- | --- |
@@ -97,7 +97,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [the hacker’s roadmap (how to get started in IT in 2025)](https://www.questtree.net/resources/coding-ai-cybersecurity-safe-coding-cyber-security-course-for-beginners-tyxrej) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [Wireshark • Go Deep](https://www.questtree.net/resources/coding-ai-cybersecurity-safe-coding-https-www-wireshark-org-o9g5vj) | The homepage for Wireshark, the world's leading network protocol analyzer. |
 
-### Coding · Data Databases
+<h3 id="coding--data-databases">Coding · Data Databases</h3>
 
 | Title | Description |
 | --- | --- |
@@ -114,7 +114,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Welcome to SQL \| Intro to SQL: Querying and managing data \| Computer programming \| Khan Academy](https://www.questtree.net/resources/coding-ai-data-databases-welcome-to-sql-intro-to-sql-querying-and-managing-data-computer-programming-khan-academy-4fu6oa) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [What is SQL? What is a Database? Relational Database Management Systems (RDBMS) Explained in Plain English.](https://www.questtree.net/resources/coding-ai-data-databases-freecodecamp-org-i0bpmi) | By Sameer Khoja Databases can be tricky to wrap your head around. However, they're essential to full-stack programming and building out back-end services that store data.  In this post, I'll be demystifying SQL, Databases, and Relational Database Man... |
 
-### Coding · Data Science Analytics
+<h3 id="coding--data-science-analytics">Coding · Data Science Analytics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -133,7 +133,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Welcome To Colab - Colab](https://www.questtree.net/resources/coding-ai-data-science-analytics-google-colab-ginol0) | Google Colab is a free, browser-based platform for writing and executing Python code, particularly suited for data science and machine learning. It offers seamless integration with powerful AI models like Gemini, providing high-compute resources for advanced projects and research. |
 | [What Is Data Science & How To Start? \| A Beginner's Guide - YouTube](https://www.questtree.net/resources/coding-ai-data-science-analytics-what-is-data-science-a-beginner-s-guide-1mawpa) | Share your videos with friends, family, and the world |
 
-### Coding · Game Development
+<h3 id="coding--game-development">Coding · Game Development</h3>
 
 | Title | Description |
 | --- | --- |
@@ -150,7 +150,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Tutorials  - itch.io](https://www.questtree.net/resources/coding-ai-game-development-https-itch-io-devlogs-tutorials-jvr04w) | This resource is a collection of tutorials published by developers on itch.io. It offers a centralized place to find learning materials for various aspects of game development, likely shared by the community. |
 | [Unity Beginner Tutorials - YouTube](https://www.questtree.net/resources/coding-ai-game-development-unity-3d-beginner-tutorial-series-9qc27) | Learn how to use Unity with these beginner tutorials! Master C# while creating cool games in the meantime. |
 
-### Coding · Mobile App Development
+<h3 id="coding--mobile-app-development">Coding · Mobile App Development</h3>
 
 | Title | Description |
 | --- | --- |
@@ -170,7 +170,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Visual Studio Code - The open source AI code editor \| Your home for multi-agent development](https://www.questtree.net/resources/coding-ai-mobile-app-development-https-code-visualstudio-com-uwdimk) | Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
 | [Xcode - Apple Developer](https://www.questtree.net/resources/coding-ai-mobile-app-development-android-studio-n9bm9t) | Xcode is a comprehensive development environment for building apps across all Apple platforms. It offers tools for coding, testing, debugging, and distributing applications, including AI-powered features like predictive code completion and generative intelligence. |
 
-### Coding · Object Oriented Programming Oop
+<h3 id="coding--object-oriented-programming-oop">Coding · Object Oriented Programming Oop</h3>
 
 | Title | Description |
 | --- | --- |
@@ -187,7 +187,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Python Full Course for Beginners](https://www.questtree.net/resources/coding-ai-object-oriented-programming-oop-object-oriented-programming-in-7-minutes-python-o6y309) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [Python Object Oriented Programming (With Examples)](https://www.questtree.net/resources/coding-ai-object-oriented-programming-oop-object-oriented-programming-concepts-q39kn8) | In this tutorial, we’ll learn about Object-Oriented Programming (OOP) in Python with the help of examples. |
 
-### Coding · Professional Skills Career
+<h3 id="coding--professional-skills-career">Coding · Professional Skills Career</h3>
 
 | Title | Description |
 | --- | --- |
@@ -206,7 +206,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Muse - Career advice and better job search](https://www.questtree.net/resources/coding-ai-professional-skills-career-the-muse-7p5zd5) | Find jobs at the best companies hiring near you and get free career advice. |
 | [YouTube Channel](https://www.questtree.net/resources/coding-ai-professional-skills-career-youtube-channel-4c1tyk) | "Look for videos on ""DevOps |
 
-### Coding · Programming Fundamentals
+<h3 id="coding--programming-fundamentals">Coding · Programming Fundamentals</h3>
 
 | Title | Description |
 | --- | --- |
@@ -224,7 +224,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Python Tutorials - YouTube](https://www.questtree.net/resources/coding-ai-programming-fundamentals-python-full-course-for-beginners-5j6lsp) | Share your videos with friends, family, and the world |
 | [The Coding Train - YouTube](https://www.questtree.net/resources/coding-ai-programming-fundamentals-the-coding-train-youtube-channel-in6m1g) | All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript ... |
 
-### Coding · Programming Languages Syntax
+<h3 id="coding--programming-languages-syntax">Coding · Programming Languages Syntax</h3>
 
 | Title | Description |
 | --- | --- |
@@ -239,7 +239,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Python Tutorial](https://www.questtree.net/resources/coding-ai-programming-languages-syntax-python-tutorial-j989is) | Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more. |
 | [Scientific Computing with Python \| freeCodeCamp.org](https://www.questtree.net/resources/coding-ai-programming-languages-syntax-learn-python-m46k11) | Learn to Code — For Free |
 
-### Coding · Software Development Practices
+<h3 id="coding--software-development-practices">Coding · Software Development Practices</h3>
 
 | Title | Description |
 | --- | --- |
@@ -257,7 +257,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Jira \| Project Management for the AI Era \| Atlassian](https://www.questtree.net/resources/coding-ai-software-development-practices-jira-com-e7hm28) | Jira brings teams together to reach the next level of productivity with AI agents that orchestrate, plan, and track projects at scale. |
 | [Your Career in Web Development Starts Here \| The Odin Project](https://www.questtree.net/resources/coding-ai-software-development-practices-https-www-theodinproject-com-di08x4) | The Odin Project empowers aspiring web developers to learn together for free |
 
-### Coding · Web Development
+<h3 id="coding--web-development">Coding · Web Development</h3>
 
 | Title | Description |
 | --- | --- |

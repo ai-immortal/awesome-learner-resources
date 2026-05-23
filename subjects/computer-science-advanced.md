@@ -8,30 +8,30 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Computer Science Advanced · Artificial Intelligence Machine Learning](#computer-science-advanced-artificial-intelligence-machine-learning)
-- [Computer Science Advanced · Augmented Virtual Reality Ar Vr](#computer-science-advanced-augmented-virtual-reality-ar-vr)
-- [Computer Science Advanced · Bioinformatics](#computer-science-advanced-bioinformatics)
-- [Computer Science Advanced · Blockchain Cryptography](#computer-science-advanced-blockchain-cryptography)
-- [Computer Science Advanced · Cloud Computing](#computer-science-advanced-cloud-computing)
-- [Computer Science Advanced · Computer Architecture Organization](#computer-science-advanced-computer-architecture-organization)
-- [Computer Science Advanced · Computer Graphics](#computer-science-advanced-computer-graphics)
-- [Computer Science Advanced · Computer Networks](#computer-science-advanced-computer-networks)
-- [Computer Science Advanced · Computer Vision](#computer-science-advanced-computer-vision)
-- [Computer Science Advanced · Cybersecurity](#computer-science-advanced-cybersecurity)
-- [Computer Science Advanced · Data Science Analytics](#computer-science-advanced-data-science-analytics)
-- [Computer Science Advanced · Devops Site Reliability Engineering](#computer-science-advanced-devops-site-reliability-engineering)
-- [Computer Science Advanced · Distributed Systems](#computer-science-advanced-distributed-systems)
-- [Computer Science Advanced · Embedded Systems](#computer-science-advanced-embedded-systems)
-- [Computer Science Advanced · Internet Of Things Iot](#computer-science-advanced-internet-of-things-iot)
-- [Computer Science Advanced · Natural Language Processing Nlp](#computer-science-advanced-natural-language-processing-nlp)
-- [Computer Science Advanced · Operating Systems](#computer-science-advanced-operating-systems)
-- [Computer Science Advanced · Parallel Concurrent Computing](#computer-science-advanced-parallel-concurrent-computing)
-- [Computer Science Advanced · Quantum Computing](#computer-science-advanced-quantum-computing)
-- [Computer Science Advanced · Robotics](#computer-science-advanced-robotics)
+- [Computer Science Advanced · Artificial Intelligence Machine Learning](#computer-science-advanced--artificial-intelligence-machine-learning)
+- [Computer Science Advanced · Augmented Virtual Reality Ar Vr](#computer-science-advanced--augmented-virtual-reality-ar-vr)
+- [Computer Science Advanced · Bioinformatics](#computer-science-advanced--bioinformatics)
+- [Computer Science Advanced · Blockchain Cryptography](#computer-science-advanced--blockchain-cryptography)
+- [Computer Science Advanced · Cloud Computing](#computer-science-advanced--cloud-computing)
+- [Computer Science Advanced · Computer Architecture Organization](#computer-science-advanced--computer-architecture-organization)
+- [Computer Science Advanced · Computer Graphics](#computer-science-advanced--computer-graphics)
+- [Computer Science Advanced · Computer Networks](#computer-science-advanced--computer-networks)
+- [Computer Science Advanced · Computer Vision](#computer-science-advanced--computer-vision)
+- [Computer Science Advanced · Cybersecurity](#computer-science-advanced--cybersecurity)
+- [Computer Science Advanced · Data Science Analytics](#computer-science-advanced--data-science-analytics)
+- [Computer Science Advanced · Devops Site Reliability Engineering](#computer-science-advanced--devops-site-reliability-engineering)
+- [Computer Science Advanced · Distributed Systems](#computer-science-advanced--distributed-systems)
+- [Computer Science Advanced · Embedded Systems](#computer-science-advanced--embedded-systems)
+- [Computer Science Advanced · Internet Of Things Iot](#computer-science-advanced--internet-of-things-iot)
+- [Computer Science Advanced · Natural Language Processing Nlp](#computer-science-advanced--natural-language-processing-nlp)
+- [Computer Science Advanced · Operating Systems](#computer-science-advanced--operating-systems)
+- [Computer Science Advanced · Parallel Concurrent Computing](#computer-science-advanced--parallel-concurrent-computing)
+- [Computer Science Advanced · Quantum Computing](#computer-science-advanced--quantum-computing)
+- [Computer Science Advanced · Robotics](#computer-science-advanced--robotics)
 
 235 resources
 
-### Computer Science Advanced · Artificial Intelligence Machine Learning
+<h3 id="computer-science-advanced--artificial-intelligence-machine-learning">Computer Science Advanced · Artificial Intelligence Machine Learning</h3>
 
 | Title | Description |
 | --- | --- |
@@ -49,7 +49,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Teachable Machine](https://www.questtree.net/resources/computer-science-artificial-intelligence-machine-learning-teachable-machine-7w42zu) | Train a computer to recognize your own images, sounds, & poses.                 A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required. |
 | [Understanding AI: AI tools, training, and skills — Google AI](https://www.questtree.net/resources/computer-science-artificial-intelligence-machine-learning-ai-explained-qa18ml) | Google offers various AI-powered programs, training, and tools to help advance your skills. Develop AI skills and view available resources. |
 
-### Computer Science Advanced · Augmented Virtual Reality Ar Vr
+<h3 id="computer-science-advanced--augmented-virtual-reality-ar-vr">Computer Science Advanced · Augmented Virtual Reality Ar Vr</h3>
 
 | Title | Description |
 | --- | --- |
@@ -68,7 +68,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Unity3D - Breakout Game - YouTube](https://www.questtree.net/resources/computer-science-augmented-virtual-reality-ar-vr-unity-vr-development-jycwvy) | Share your videos with friends, family, and the world |
 | [Virtual Reality Oasis - YouTube](https://www.questtree.net/resources/computer-science-augmented-virtual-reality-ar-vr-vr-development-tutorials-evs5v7) | Hi, I'm Mike! I love sharing my passion for all things Virtual Reality in my videos. I started my YouTube journey sharing VR content way back in December 201... |
 
-### Computer Science Advanced · Bioinformatics
+<h3 id="computer-science-advanced--bioinformatics">Computer Science Advanced · Bioinformatics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -94,7 +94,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [welcome home : vim online](https://www.questtree.net/resources/computer-science-bioinformatics-vim-712lgb) | Vim.org is the central hub for the Vim text editor community, offering tips, tools, and a platform for sharing custom extensions. It provides a powerful, scriptable text editor suitable for advanced features and IDE-like behavior. |
 | [Welcome to Python.org](https://www.questtree.net/resources/computer-science-bioinformatics-https-www-python-org-1pcj55) | The official home of the Python Programming Language |
 
-### Computer Science Advanced · Blockchain Cryptography
+<h3 id="computer-science-advanced--blockchain-cryptography">Computer Science Advanced · Blockchain Cryptography</h3>
 
 | Title | Description |
 | --- | --- |
@@ -108,7 +108,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [How does a blockchain work - Simply Explained](https://www.questtree.net/resources/computer-science-blockchain-cryptography-blockchain-explained-2yk7qg) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [What Is Blockchain? \| IBM](https://www.questtree.net/resources/computer-science-blockchain-cryptography-ibm-blockchain-explained-xks2cv) | Blockchain is a shared, immutable digital ledger, enabling the recording of transactions and the tracking of assets within a business network and providing a single source of truth. |
 
-### Computer Science Advanced · Cloud Computing
+<h3 id="computer-science-advanced--cloud-computing">Computer Science Advanced · Cloud Computing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -126,7 +126,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Implement Azure App Service web apps - Training \| Microsoft Learn](https://www.questtree.net/resources/computer-science-cloud-computing-implement-azure-app-service-web-apps-2p0hn7) | Learn how Azure App Service functions and how to create and update an app. Explore App Service authentication and authorization, configuring app settings, scale apps, and how to use deployment slots. |
 | [Tutorials \| DigitalOcean](https://www.questtree.net/resources/computer-science-cloud-computing-digitalocean-tutorials-3u37fj) | Follow along with one of our 8,000+ development and sysadmin tutorials. |
 
-### Computer Science Advanced · Computer Architecture Organization
+<h3 id="computer-science-advanced--computer-architecture-organization">Computer Science Advanced · Computer Architecture Organization</h3>
 
 | Title | Description |
 | --- | --- |
@@ -140,7 +140,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Central Processing Unit (CPU): Crash Course Computer Science #7](https://www.questtree.net/resources/computer-science-computer-architecture-organization-computer-architecture-introduction-hto2db) | Share your videos with friends, family, and the world |
 | [Untitled Circuit - Logic.ly Online Demo](https://www.questtree.net/resources/computer-science-computer-architecture-organization-digital-logic-simulators-538d2v) | Logic.ly is a free online digital logic simulator that allows users to design, build, and test digital circuits. It provides a visual interface for working with logic gates and creating complex systems, making it a valuable tool for learning computer architecture and organization. |
 
-### Computer Science Advanced · Computer Graphics
+<h3 id="computer-science-advanced--computer-graphics">Computer Science Advanced · Computer Graphics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -158,7 +158,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.questtree.net/resources/computer-science-computer-graphics-learn-3d-graphics-programming-with-javascript-and-webgl-2kaq70) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [Welcome to Processing! / Processing.org](https://www.questtree.net/resources/computer-science-computer-graphics-https-processing-org-litl9l) | Processing is a flexible software sketchbook and programming language designed for learning to code, particularly with a focus on visual arts and visual literacy in technology. It offers a downloadable IDE, extensive examples, and a rich set of libraries and tools contributed by the community, making it suitable for students, artists, designers, researchers, and hobbyists for learning and prototyping. |
 
-### Computer Science Advanced · Computer Networks
+<h3 id="computer-science-advanced--computer-networks">Computer Science Advanced · Computer Networks</h3>
 
 | Title | Description |
 | --- | --- |
@@ -172,7 +172,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Wireshark • Go Deep](https://www.questtree.net/resources/computer-science-computer-networks-https-www-wireshark-org-o9g5vj) | The homepage for Wireshark, the world's leading network protocol analyzer. |
 | [Wireshark • Go Deep \| About](https://www.questtree.net/resources/computer-science-computer-networks-wireshark-about-wireshark-d8sl0r) | Learn more about Wireshark and its features, the free & open source network analysis tool. |
 
-### Computer Science Advanced · Computer Vision
+<h3 id="computer-science-advanced--computer-vision">Computer Science Advanced · Computer Vision</h3>
 
 | Title | Description |
 | --- | --- |
@@ -184,7 +184,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [OpenCV with Python for Image and Video Analysis - YouTube](https://www.questtree.net/resources/computer-science-computer-vision-opencv-tutorials-bpuyri) | Share your videos with friends, family, and the world |
 | [OpenCV: OpenCV-Python Tutorials](https://www.questtree.net/resources/computer-science-computer-vision-opencv-tutorials-6s37nn) | This resource offers a comprehensive introduction to computer vision using Python with OpenCV. It covers fundamental image and video operations, feature detection, object tracking, camera calibration, and object detection techniques like face recognition. |
 
-### Computer Science Advanced · Cybersecurity
+<h3 id="computer-science-advanced--cybersecurity">Computer Science Advanced · Cybersecurity</h3>
 
 | Title | Description |
 | --- | --- |
@@ -202,7 +202,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Internet \| Computers and the Internet \| Computing \| Khan Academy](https://www.questtree.net/resources/computer-science-cybersecurity-how-the-internet-works-11pf7r) | How does the Internet work? Learn about the physical layer (Ethernet, Fiber, WiFi), the protocols (IP, TCP, UDP, DNS, HTTP), the World Wide Web, and the digital divide. |
 | [you need this FREE CyberSecurity tool](https://www.questtree.net/resources/computer-science-cybersecurity-cyber-security-full-course-for-beginners-pyluhw) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 
-### Computer Science Advanced · Data Science Analytics
+<h3 id="computer-science-advanced--data-science-analytics">Computer Science Advanced · Data Science Analytics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -216,7 +216,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The AI Buzz with Luca and Josh - YouTube](https://www.questtree.net/resources/computer-science-data-science-analytics-statquest-playlist-4mcgt0) | AI is moving fast, but no worries, The AI Buzz makes it easy to keep up! Luca Antiga, the Chief Technology Officer at Lightning AI, and Josh Starmer, host of... |
 | [Towards Data Science](https://www.questtree.net/resources/computer-science-data-science-analytics-https-towardsdatascience-com-9xk3qn) | Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals. |
 
-### Computer Science Advanced · Devops Site Reliability Engineering
+<h3 id="computer-science-advanced--devops-site-reliability-engineering">Computer Science Advanced · Devops Site Reliability Engineering</h3>
 
 | Title | Description |
 | --- | --- |
@@ -240,7 +240,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Twelve-Factor App](https://www.questtree.net/resources/computer-science-devops-site-reliability-engineering-http-12factor-net-8eajaa) | A methodology for building modern, scalable, maintainable software-as-a-service apps. |
 | [Visual Studio Code - The open source AI code editor \| Your home for multi-agent development](https://www.questtree.net/resources/computer-science-devops-site-reliability-engineering-visual-studio-code-uwdimk) | Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
 
-### Computer Science Advanced · Distributed Systems
+<h3 id="computer-science-advanced--distributed-systems">Computer Science Advanced · Distributed Systems</h3>
 
 | Title | Description |
 | --- | --- |
@@ -257,7 +257,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Tech Dummies - Narendra Lakshmana Gowda - YouTube](https://www.questtree.net/resources/computer-science-distributed-systems-tech-dummies-2956x0) | Welcome to TechDummies, your go-to channel for mastering software systems and architecture! I’m Narendra Lakshmana Gowda, an award-winning platform engineer ... |
 | [Untitled Diagram - draw.io](https://www.questtree.net/resources/computer-science-distributed-systems-https-app-diagrams-net-f7m06c) | This resource, draw.io, offers free online diagramming software for creating various types of diagrams essential for computer science fields. Learners can use it to build flowcharts, UML diagrams, ER diagrams for databases, and network diagrams, facilitating visualization and understanding of complex systems. |
 
-### Computer Science Advanced · Embedded Systems
+<h3 id="computer-science-advanced--embedded-systems">Computer Science Advanced · Embedded Systems</h3>
 
 | Title | Description |
 | --- | --- |
@@ -277,7 +277,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Tutorials - SparkFun Learn](https://www.questtree.net/resources/computer-science-embedded-systems-https-learn-sparkfun-com-tutorials-m397cc) | This resource provides a collection of tutorials focused on embedded systems and electronics projects. Learners can explore topics like MicroPython, sensor integration, and interfacing different voltage systems, often utilizing SparkFun's Qwiic ecosystem. |
 | [Your Gateway to Embedded Software Development Excellence — PlatformIO latest documentation](https://www.questtree.net/resources/computer-science-embedded-systems-platformio-documentation-1lksxq) | PlatformIO offers a comprehensive, open-source ecosystem for embedded software development. It provides tools for collaborative development, testing, and debugging across multiple platforms and architectures, aiming to enhance developer success. |
 
-### Computer Science Advanced · Internet Of Things Iot
+<h3 id="computer-science-advanced--internet-of-things-iot">Computer Science Advanced · Internet Of Things Iot</h3>
 
 | Title | Description |
 | --- | --- |
@@ -290,7 +290,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Teach, learn, and make with the Raspberry Pi Foundation](https://www.questtree.net/resources/computer-science-internet-of-things-iot-https-www-raspberrypi-org-sm2st8) | We are a charity with the mission to enable young people to realise their full potential through the power of computing and digital technologies. |
 | [Thonny, Python IDE for beginners](https://www.questtree.net/resources/computer-science-internet-of-things-iot-https-thonny-org-fn3is4) | This resource provides Thonny, a free and easy-to-use Python IDE specifically designed for beginners. It offers a straightforward environment for learning to code with features like a debugger, variable inspector, and the ability to install extensions. |
 
-### Computer Science Advanced · Natural Language Processing Nlp
+<h3 id="computer-science-advanced--natural-language-processing-nlp">Computer Science Advanced · Natural Language Processing Nlp</h3>
 
 | Title | Description |
 | --- | --- |
@@ -305,7 +305,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [StatQuest!!!](https://www.questtree.net/resources/computer-science-natural-language-processing-nlp-statquest-with-josh-starmer-c5r7ba) | StatQuest with Josh Starmer is a rich educational resource offering an "epic journey" through data science, statistics, machine learning, neural networks, and AI. It provides videos and other content designed to explain complex topics in an engaging way for learners interested in these fields. |
 | [Wordtune — Express yourself with confidence](https://www.questtree.net/resources/computer-science-natural-language-processing-nlp-wordtune-grammarly-n29opn) | Perfect your English with a free AI writer that can paraphrase, rewrite, correct your grammar and more. |
 
-### Computer Science Advanced · Operating Systems
+<h3 id="computer-science-advanced--operating-systems">Computer Science Advanced · Operating Systems</h3>
 
 | Title | Description |
 | --- | --- |
@@ -317,7 +317,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Operating Systems: Crash Course Computer Science #18 - YouTube](https://www.questtree.net/resources/computer-science-operating-systems-operating-systems-crash-course-computer-science-18-63uixb) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [OS CPU SCHEDULING ALGORITHM VISUALISER](https://www.questtree.net/resources/computer-science-operating-systems-simulators-visualizers-search-for-these-og2ga4) | This resource provides an interactive visualizer for understanding various CPU scheduling algorithms. It helps learners grasp concepts through graphical representations and detailed tables, making abstract operating system principles more concrete. |
 
-### Computer Science Advanced · Parallel Concurrent Computing
+<h3 id="computer-science-advanced--parallel-concurrent-computing">Computer Science Advanced · Parallel Concurrent Computing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -329,7 +329,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Threading and multiprocessing — PythonCert 5.0 documentation](https://www.questtree.net/resources/computer-science-parallel-concurrent-computing-python-s-threading-and-multiprocessing-modules-5rwbgq) | This resource introduces Python's `threading` and `multiprocessing` modules, explaining the concepts of parallel programming, common challenges like race conditions and deadlocks, and methods for synchronization using locks. It provides guidance on breaking down problems for parallel execution and implementing threading within custom classes. |
 | [Web Workers API - Web APIs \| MDN](https://www.questtree.net/resources/computer-science-parallel-concurrent-computing-https-developer-mozilla-org-en-us-docs-web-api-web-workers-api-nn0f4m) | Web Workers makes it possible to run a script operation in a background thread separate from the main execution thread of a web application. The advantage of this is that laborious processing can be performed in a separate thread, allowing the main (usually the UI) thread to run without being blocked/slowed down. |
 
-### Computer Science Advanced · Quantum Computing
+<h3 id="computer-science-advanced--quantum-computing">Computer Science Advanced · Quantum Computing</h3>
 
 | Title | Description |
 | --- | --- |
@@ -347,7 +347,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Qiskit - YouTube](https://www.questtree.net/resources/computer-science-quantum-computing-qiskit-youtube-channel-2926ni) | Share your videos with friends, family, and the world |
 | [Welcome To Colab - Colab](https://www.questtree.net/resources/computer-science-quantum-computing-https-colab-research-google-com-ginol0) | Google Colab is a cloud-based platform that allows users to write and execute Python code in their browser, ideal for data science and machine learning tasks. It provides access to powerful AI models like Gemini 3 Pro with dedicated high-compute resources. |
 
-### Computer Science Advanced · Robotics
+<h3 id="computer-science-advanced--robotics">Computer Science Advanced · Robotics</h3>
 
 | Title | Description |
 | --- | --- |

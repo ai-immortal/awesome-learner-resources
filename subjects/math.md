@@ -8,18 +8,18 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Math · Algebra](#math-algebra)
-- [Math · Calculus](#math-calculus)
-- [Math · Discrete Mathematics](#math-discrete-mathematics)
-- [Math · Geometry](#math-geometry)
-- [Math · Linear Algebra](#math-linear-algebra)
-- [Math · Number Theory Arithmetic](#math-number-theory-arithmetic)
-- [Math · Statistics Probability](#math-statistics-probability)
-- [Math · Trigonometry](#math-trigonometry)
+- [Math · Algebra](#math--algebra)
+- [Math · Calculus](#math--calculus)
+- [Math · Discrete Mathematics](#math--discrete-mathematics)
+- [Math · Geometry](#math--geometry)
+- [Math · Linear Algebra](#math--linear-algebra)
+- [Math · Number Theory Arithmetic](#math--number-theory-arithmetic)
+- [Math · Statistics Probability](#math--statistics-probability)
+- [Math · Trigonometry](#math--trigonometry)
 
 83 resources
 
-### Math · Algebra
+<h3 id="math--algebra">Math · Algebra</h3>
 
 | Title | Description |
 | --- | --- |
@@ -40,7 +40,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [The Organic Chemistry Tutor - YouTube](https://www.questtree.net/resources/math-algebra-the-organic-chemistry-tutor-qupoxf) | This channel focuses on providing tutorial videos on organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus.Disclaim... |
 | [The Powers of Math - Podcast - Apple Podcasts](https://www.questtree.net/resources/math-algebra-the-powers-of-math-78aep8) | Listen to Courtney Powers's The Powers of Math podcast on Apple Podcasts. |
 
-### Math · Calculus
+<h3 id="math--calculus">Math · Calculus</h3>
 
 | Title | Description |
 | --- | --- |
@@ -58,7 +58,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Math Solver - Trusted Online AI Math Calculator \| Symbolab](https://www.questtree.net/resources/math-calculus-https-www-symbolab-com-ungzkz) | Symbolab: equation search and  math solver - solves algebra, trigonometry and calculus problems step by step |
 | [Mathway \| Algebra Problem Solver](https://www.questtree.net/resources/math-calculus-app-store-google-play-hzcchn) | Free math problem solver answers your algebra homework questions with step-by-step explanations. |
 
-### Math · Discrete Mathematics
+<h3 id="math--discrete-mathematics">Math · Discrete Mathematics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -75,7 +75,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Statistics and Probability \| Khan Academy](https://www.questtree.net/resources/math-discrete-mathematics-probability-wyap8r) | Learn statistics and probability—everything you'd want to know about descriptive and inferential statistics. |
 | [Symbolic Logic](https://www.questtree.net/resources/math-discrete-mathematics-logic-mw1678) | A proposition is a statement which can be classified as true or false. Washington, D.C. is the capital of the United States of America. |
 
-### Math · Geometry
+<h3 id="math--geometry">Math · Geometry</h3>
 
 | Title | Description |
 | --- | --- |
@@ -90,7 +90,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Get ready for Geometry \| Math \| Khan Academy](https://www.questtree.net/resources/math-geometry-khan-academy-m5togv) | Get ready for high school geometry! Learn the skills that will set you up for success in congruence, similarity, and triangle trigonometry; analytic geometry; conic sections; and circles and solid geometry. |
 | [High School Geometry \| Khan Academy](https://www.questtree.net/resources/math-geometry-khan-academy-high-school-geometry-numlg) | Learn high school geometry—transformations, congruence, similarity, trigonometry, analytic geometry, and more (aligned with Common Core standards). |
 
-### Math · Linear Algebra
+<h3 id="math--linear-algebra">Math · Linear Algebra</h3>
 
 | Title | Description |
 | --- | --- |
@@ -100,7 +100,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Linear Algebra \| Mathematics \| MIT OpenCourseWare](https://www.questtree.net/resources/math-linear-algebra-full-course-lectures-kmrc1u) | This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices. |
 | [Wolfram\|Alpha: Computational Intelligence](https://www.questtree.net/resources/math-linear-algebra-wolfram-alpha-pyx23o) | Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music… |
 
-### Math · Number Theory Arithmetic
+<h3 id="math--number-theory-arithmetic">Math · Number Theory Arithmetic</h3>
 
 | Title | Description |
 | --- | --- |
@@ -116,7 +116,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Podcast — Numberphile](https://www.questtree.net/resources/math-number-theory-arithmetic-the-numberphile-podcast-7mhdh9) | The Numberphile Podcast offers audio discussions about mathematics and numbers in general. It provides an accessible way to engage with mathematical concepts and explore various numerical topics. |
 | [The Joy of Why Podcast \| Quanta Magazine](https://www.questtree.net/resources/math-number-theory-arithmetic-the-joy-of-why-ghz9ta) | The mathematician and author Steven Strogatz interviews leading researchers about the great scientific and mathematical questions of our time. |
 
-### Math · Statistics Probability
+<h3 id="math--statistics-probability">Math · Statistics Probability</h3>
 
 | Title | Description |
 | --- | --- |
@@ -131,7 +131,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Statistics Fundamentals - YouTube](https://www.questtree.net/resources/math-statistics-probability-statistical-foundations-89aco1) | These videos give you a general overview of statistics as well as a be a reference for statistical concepts. |
 | [The Main Ideas behind Probability Distributions](https://www.questtree.net/resources/math-statistics-probability-probability-distributions-27pszg) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 
-### Math · Trigonometry
+<h3 id="math--trigonometry">Math · Trigonometry</h3>
 
 | Title | Description |
 | --- | --- |

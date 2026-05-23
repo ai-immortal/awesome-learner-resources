@@ -8,16 +8,16 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [AI & Automation · Ai Ethics Responsible Use](#ai-automation-ai-ethics-responsible-use)
-- [AI & Automation · Artificial Intelligence Foundations](#ai-automation-artificial-intelligence-foundations)
-- [AI & Automation · Cloud Computing Devops](#ai-automation-cloud-computing-devops)
-- [AI & Automation · Computational Systems Architecture](#ai-automation-computational-systems-architecture)
-- [AI & Automation · Emerging Technologies](#ai-automation-emerging-technologies)
-- [AI & Automation · Working With Ai Tools](#ai-automation-working-with-ai-tools)
+- [AI & Automation · Ai Ethics Responsible Use](#ai--automation--ai-ethics-responsible-use)
+- [AI & Automation · Artificial Intelligence Foundations](#ai--automation--artificial-intelligence-foundations)
+- [AI & Automation · Cloud Computing Devops](#ai--automation--cloud-computing-devops)
+- [AI & Automation · Computational Systems Architecture](#ai--automation--computational-systems-architecture)
+- [AI & Automation · Emerging Technologies](#ai--automation--emerging-technologies)
+- [AI & Automation · Working With Ai Tools](#ai--automation--working-with-ai-tools)
 
 57 resources
 
-### AI & Automation · Ai Ethics Responsible Use
+<h3 id="ai--automation--ai-ethics-responsible-use">AI &amp; Automation · Ai Ethics Responsible Use</h3>
 
 | Title | Description |
 | --- | --- |
@@ -28,7 +28,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Homepage - AI ETHICS LAB](https://www.questtree.net/resources/coding-ai-ai-ethics-responsible-use-https-aiethicslab-com-n4adpi) | AI Ethics Lab provides a unique interdisciplinary approach to understanding and solving ethical issues in AI development. By bringing together computer scientists, legal experts, and philosophers, they offer comprehensive guidance for researchers, developers, and legislators. Their goal is to integrate ethics from the initial stages of AI design to ensure a mutual benefit for both industry and communities. |
 | [Responsible AI: Ethical policies and practices \| Microsoft AI](https://www.questtree.net/resources/coding-ai-ai-ethics-responsible-use-https-www-microsoft-com-en-us-ai-responsible-ai-14tukl) | Explore how Microsoft is committed to responsible AI practices and advancing AI technology with ethical principles. |
 
-### AI & Automation · Artificial Intelligence Foundations
+<h3 id="ai--automation--artificial-intelligence-foundations">AI &amp; Automation · Artificial Intelligence Foundations</h3>
 
 | Title | Description |
 | --- | --- |
@@ -42,7 +42,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Teachable Machine](https://www.questtree.net/resources/coding-ai-artificial-intelligence-foundations-https-teachablemachine-withgoogle-com-7w42zu) | Train a computer to recognize your own images, sounds, & poses.                 A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required. |
 | [Towards Data Science](https://www.questtree.net/resources/coding-ai-artificial-intelligence-foundations-https-towardsdatascience-com-9xk3qn) | Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals. |
 
-### AI & Automation · Cloud Computing Devops
+<h3 id="ai--automation--cloud-computing-devops">AI &amp; Automation · Cloud Computing Devops</h3>
 
 | Title | Description |
 | --- | --- |
@@ -62,7 +62,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Tutorials \| Kubernetes](https://www.questtree.net/resources/coding-ai-cloud-computing-devops-https-kubernetes-io-docs-tutorials-22938e) | Production-Grade Container Orchestration |
 | [Visual Studio Code - The open source AI code editor \| Your home for multi-agent development](https://www.questtree.net/resources/coding-ai-cloud-computing-devops-https-code-visualstudio-com-uwdimk) | Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
 
-### AI & Automation · Computational Systems Architecture
+<h3 id="ai--automation--computational-systems-architecture">AI &amp; Automation · Computational Systems Architecture</h3>
 
 | Title | Description |
 | --- | --- |
@@ -73,7 +73,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [How do computers work? A simple introduction](https://www.questtree.net/resources/coding-ai-computational-systems-architecture-https-www-explainthatstuff-com-howcomputerswork-html-tnoyjk) | An easy-to-understand introduction to how computers work by inputting, storing, processing, and outputting information. |
 | [The Big Picture](https://www.questtree.net/resources/coding-ai-computational-systems-architecture-stanford-qvwxv4) | This resource is a PDF of lecture slides from a Stanford University course (CS 103) on Computation. It covers advanced topics in theoretical computer science, including logic, proofs, sets, functions, relations, graphs, and computability. The slides are intended for students with a strong programming and mathematical background, likely at the university level. |
 
-### AI & Automation · Emerging Technologies
+<h3 id="ai--automation--emerging-technologies">AI &amp; Automation · Emerging Technologies</h3>
 
 | Title | Description |
 | --- | --- |
@@ -91,7 +91,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Two Minute Papers - YouTube](https://www.questtree.net/resources/coding-ai-emerging-technologies-https-www-youtube-com-twominutepapers-iu51d2) | What a time to be alive - with Dr. Károly Zsolnai-Fehér. |
 | [Unity Learn](https://www.questtree.net/resources/coding-ai-emerging-technologies-https-learn-unity-com-xr-ckobbu) | Free tutorials, courses, and guided pathways for mastering real-time 3D development skills to make video games, VR, AR, and more. |
 
-### AI & Automation · Working With Ai Tools
+<h3 id="ai--automation--working-with-ai-tools">AI &amp; Automation · Working With Ai Tools</h3>
 
 | Title | Description |
 | --- | --- |

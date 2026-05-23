@@ -8,16 +8,16 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Chemistry · Acids Bases](#chemistry-acids-bases)
-- [Chemistry · Atomic Structure Periodicity](#chemistry-atomic-structure-periodicity)
-- [Chemistry · Chemical Equilibrium](#chemistry-chemical-equilibrium)
-- [Chemistry · Chemical Kinetics](#chemistry-chemical-kinetics)
-- [Chemistry · Stoichiometry Chemical Reactions](#chemistry-stoichiometry-chemical-reactions)
-- [Chemistry · Thermochemistry Thermodynamics](#chemistry-thermochemistry-thermodynamics)
+- [Chemistry · Acids Bases](#chemistry--acids-bases)
+- [Chemistry · Atomic Structure Periodicity](#chemistry--atomic-structure-periodicity)
+- [Chemistry · Chemical Equilibrium](#chemistry--chemical-equilibrium)
+- [Chemistry · Chemical Kinetics](#chemistry--chemical-kinetics)
+- [Chemistry · Stoichiometry Chemical Reactions](#chemistry--stoichiometry-chemical-reactions)
+- [Chemistry · Thermochemistry Thermodynamics](#chemistry--thermochemistry-thermodynamics)
 
 43 resources
 
-### Chemistry · Acids Bases
+<h3 id="chemistry--acids-bases">Chemistry · Acids Bases</h3>
 
 | Title | Description |
 | --- | --- |
@@ -34,7 +34,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Supplemental Modules (Physical and Theoretical Chemistry) - Chemistry LibreTexts](https://www.questtree.net/resources/chemistry-acids-bases-chem-libretexts-acids-and-bases-gmcabq) | Physical Chemistry is the application of physical principles and measurements to understand the properties of matter, as well as for the development of new technologies for the environment, energy … |
 | [The Episodic Table of Elements – A podcast about the fascinating true stories behind each element on the periodic table.](https://www.questtree.net/resources/chemistry-acids-bases-the-periodic-element-57zr5t) | This resource is a podcast that delves into the fascinating true stories behind each element on the periodic table. It aims to provide engaging narratives that incorporate elements of geology, geography, and amateur nuclear science. Learners can subscribe to receive updates on new episodes and website news. |
 
-### Chemistry · Atomic Structure Periodicity
+<h3 id="chemistry--atomic-structure-periodicity">Chemistry · Atomic Structure Periodicity</h3>
 
 | Title | Description |
 | --- | --- |
@@ -46,7 +46,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Periodic Table of Elements - IUPAC \| International Union of Pure and Applied Chemistry](https://www.questtree.net/resources/chemistry-atomic-structure-periodicity-periodic-table-of-elements-xbtil5) | View the latest release of the Periodic Table (dated 8 Jan 2016) includes the recently added elements 113, 115, 117, and 118 with their temporary names and symbols |
 | [Professor Dave Explains - YouTube](https://www.questtree.net/resources/chemistry-atomic-structure-periodicity-professor-dave-explains-8meei0) | Welcome! I have a knack for explaining stuff and I want to share some knowledge with you.I received a BA in chemistry from Carleton College, and performed gr... |
 
-### Chemistry · Chemical Equilibrium
+<h3 id="chemistry--chemical-equilibrium">Chemistry · Chemical Equilibrium</h3>
 
 | Title | Description |
 | --- | --- |
@@ -57,7 +57,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Tyler DeWitt - YouTube](https://www.questtree.net/resources/chemistry-chemical-equilibrium-tyler-dewitt-awuwzu) | Need help with Chemistry? Whether you're in high school, college, AP or IB courses, these videos can help! They are also targeted to students studying for th... |
 | [Visualizing Equilibrium - American Chemical Society](https://www.questtree.net/resources/chemistry-chemical-equilibrium-acs-chemistry-for-life-american-chemical-society-pgv3j) | This video illustrates equilibrium processes. |
 
-### Chemistry · Chemical Kinetics
+<h3 id="chemistry--chemical-kinetics">Chemistry · Chemical Kinetics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -69,7 +69,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Michel van Biezen - YouTube](https://www.questtree.net/resources/chemistry-chemical-kinetics-michel-van-biezen-9crt16) | This channel contains a complete list of physics videos, as well as hundreds of chemistry, astronomy,  math, and mechanical engineering videos. The physics v... |
 | [Molecularium](https://www.questtree.net/resources/chemistry-chemical-kinetics-molecularium-dyr0v0) | Molecularium is a website offering a collection of animated molecular visualizations and interactive simulations for chemistry learners. It aims to make complex chemical concepts more accessible and engaging through visual exploration of molecules and reactions. |
 
-### Chemistry · Stoichiometry Chemical Reactions
+<h3 id="chemistry--stoichiometry-chemical-reactions">Chemistry · Stoichiometry Chemical Reactions</h3>
 
 | Title | Description |
 | --- | --- |
@@ -82,7 +82,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Quizlet: Study tools & learning resources for students and teachers \| Quizlet](https://www.questtree.net/resources/chemistry-stoichiometry-chemical-reactions-quizlet-qscnz9) | Quizlet makes learning fun and easy with free flashcards and premium study tools. Join millions of students and teachers who use Quizlet to create, share, and learn any subject. |
 | [The Organic Chemistry Tutor - YouTube](https://www.questtree.net/resources/chemistry-stoichiometry-chemical-reactions-the-organic-chemistry-tutor-1c8128) | This channel focuses on providing tutorial videos on organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus.Disclaim... |
 
-### Chemistry · Thermochemistry Thermodynamics
+<h3 id="chemistry--thermochemistry-thermodynamics">Chemistry · Thermochemistry Thermodynamics</h3>
 
 | Title | Description |
 | --- | --- |

@@ -8,23 +8,23 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 
 ## Table of contents
 
-- [Computer Science Fundamentals · Algorithms](#computer-science-fundamentals-algorithms)
-- [Computer Science Fundamentals · Compiler Design](#computer-science-fundamentals-compiler-design)
-- [Computer Science Fundamentals · Data Structures](#computer-science-fundamentals-data-structures)
-- [Computer Science Fundamentals · Database Systems](#computer-science-fundamentals-database-systems)
-- [Computer Science Fundamentals · Discrete Mathematics](#computer-science-fundamentals-discrete-mathematics)
-- [Computer Science Fundamentals · Game Development](#computer-science-fundamentals-game-development)
-- [Computer Science Fundamentals · Human Computer Interaction Hci](#computer-science-fundamentals-human-computer-interaction-hci)
-- [Computer Science Fundamentals · Mobile Development](#computer-science-fundamentals-mobile-development)
-- [Computer Science Fundamentals · Object Oriented Programming Oop](#computer-science-fundamentals-object-oriented-programming-oop)
-- [Computer Science Fundamentals · Programming Fundamentals](#computer-science-fundamentals-programming-fundamentals)
-- [Computer Science Fundamentals · Software Engineering](#computer-science-fundamentals-software-engineering)
-- [Computer Science Fundamentals · Theory Of Computation](#computer-science-fundamentals-theory-of-computation)
-- [Computer Science Fundamentals · Web Development](#computer-science-fundamentals-web-development)
+- [Computer Science Fundamentals · Algorithms](#computer-science-fundamentals--algorithms)
+- [Computer Science Fundamentals · Compiler Design](#computer-science-fundamentals--compiler-design)
+- [Computer Science Fundamentals · Data Structures](#computer-science-fundamentals--data-structures)
+- [Computer Science Fundamentals · Database Systems](#computer-science-fundamentals--database-systems)
+- [Computer Science Fundamentals · Discrete Mathematics](#computer-science-fundamentals--discrete-mathematics)
+- [Computer Science Fundamentals · Game Development](#computer-science-fundamentals--game-development)
+- [Computer Science Fundamentals · Human Computer Interaction Hci](#computer-science-fundamentals--human-computer-interaction-hci)
+- [Computer Science Fundamentals · Mobile Development](#computer-science-fundamentals--mobile-development)
+- [Computer Science Fundamentals · Object Oriented Programming Oop](#computer-science-fundamentals--object-oriented-programming-oop)
+- [Computer Science Fundamentals · Programming Fundamentals](#computer-science-fundamentals--programming-fundamentals)
+- [Computer Science Fundamentals · Software Engineering](#computer-science-fundamentals--software-engineering)
+- [Computer Science Fundamentals · Theory Of Computation](#computer-science-fundamentals--theory-of-computation)
+- [Computer Science Fundamentals · Web Development](#computer-science-fundamentals--web-development)
 
 170 resources
 
-### Computer Science Fundamentals · Algorithms
+<h3 id="computer-science-fundamentals--algorithms">Computer Science Fundamentals · Algorithms</h3>
 
 | Title | Description |
 | --- | --- |
@@ -43,7 +43,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Solve Algorithms \| HackerRank](https://www.questtree.net/resources/computer-science-algorithms-algorithms-domain-ykkv5s) | Join over 28 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews. |
 | [visualising data structures and algorithms through animation - VisuAlgo](https://www.questtree.net/resources/computer-science-algorithms-https-visualgo-net-gyipxl) | VisuAlgo was conceptualised in 2011 by Associate Professor Steven Halim (NUS School of Computing) as a tool to help his students better understand data structures and algorithms, by allowing them to learn the basics on their own and at their own pace. Together with his students from the National University of Singapore, a series of visualizations were developed and consolidated, from simple sorting algorithms to complex graph data structures. Though specifically designed for the use of NUS students taking various data structure and algorithm classes (CS1010/equivalent, CS2040/equivalent (inclusive of IT5003)), CS3230, CS3233, and CS4234), as advocators of online learning, we hope that curious minds around the world will find these visualizations useful as well. |
 
-### Computer Science Fundamentals · Compiler Design
+<h3 id="computer-science-fundamentals--compiler-design">Computer Science Fundamentals · Compiler Design</h3>
 
 | Title | Description |
 | --- | --- |
@@ -59,7 +59,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [regex101: build, test, and debug regex](https://www.questtree.net/resources/computer-science-compiler-design-https-regex101-com-i1ohjy) | Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust. |
 | [Self Compiling Compilers - Computerphile](https://www.questtree.net/resources/computer-science-compiler-design-computerphile-bu4yqo) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 
-### Computer Science Fundamentals · Data Structures
+<h3 id="computer-science-fundamentals--data-structures">Computer Science Fundamentals · Data Structures</h3>
 
 | Title | Description |
 | --- | --- |
@@ -76,7 +76,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Sololearn: Learn to Code](https://www.questtree.net/resources/computer-science-data-structures-https-www-sololearn-com-en-j3qr55) | Join Now to learn the basics or advance your existing skills |
 | [Solve Data Structures \| HackerRank](https://www.questtree.net/resources/computer-science-data-structures-hackerrank-vgj5l) | Join over 28 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews. |
 
-### Computer Science Fundamentals · Database Systems
+<h3 id="computer-science-fundamentals--database-systems">Computer Science Fundamentals · Database Systems</h3>
 
 | Title | Description |
 | --- | --- |
@@ -95,7 +95,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [SQL Tutorial - Full Database Course for Beginners](https://www.questtree.net/resources/computer-science-database-systems-sql-tutorial-full-database-course-for-beginners-q1o87m) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. |
 | [SQLZoo](https://www.questtree.net/resources/computer-science-database-systems-sqlzoo-44u9ut) | SQLZoo is an online platform offering interactive SQL exercises to help learners practice and improve their database query skills. It features assessments with varying difficulty levels (easy, medium, hard) to challenge users. |
 
-### Computer Science Fundamentals · Discrete Mathematics
+<h3 id="computer-science-fundamentals--discrete-mathematics">Computer Science Fundamentals · Discrete Mathematics</h3>
 
 | Title | Description |
 | --- | --- |
@@ -111,7 +111,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Wolfram\|Alpha: Computational Intelligence](https://www.questtree.net/resources/computer-science-discrete-mathematics-https-www-wolframalpha-com-pyx23o) | Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music… |
 | [Сервис для построения графов онлайн \| GraphOnline](https://www.questtree.net/resources/computer-science-discrete-mathematics-graph-visualization-tools-9j33cv) | Построить и визуализировать графы онлайн. Удобный редактор, алгоритмы поиска путей, поддержка взвешенных и направленных графов. |
 
-### Computer Science Fundamentals · Game Development
+<h3 id="computer-science-fundamentals--game-development">Computer Science Fundamentals · Game Development</h3>
 
 | Title | Description |
 | --- | --- |
@@ -131,7 +131,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [LMMS \|                 Home](https://www.questtree.net/resources/computer-science-game-development-lmms-website-t0wq35) | LMMS is a free, open source, multiplatform digital audio workstation. |
 | [The Cherno - YouTube](https://www.questtree.net/resources/computer-science-game-development-the-cherno-youtube-channel-vm0xb4) | Yan Chernikov - I'm making a game engine called Hazel! Here you'll find videos about that and C++/programming.For professional inquiries, please send an emai... |
 
-### Computer Science Fundamentals · Human Computer Interaction Hci
+<h3 id="computer-science-fundamentals--human-computer-interaction-hci">Computer Science Fundamentals · Human Computer Interaction Hci</h3>
 
 | Title | Description |
 | --- | --- |
@@ -147,7 +147,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [UX & Usability Articles from Nielsen Norman Group - NN/G](https://www.questtree.net/resources/computer-science-human-computer-interaction-hci-https-www-nngroup-com-articles-1r8hgx) | Research-based articles about user experience (UX), interaction design, web usability, user testing, and UI/GUI design by Nielsen Norman Group authors, including Jakob Nielsen, Don Norman, Bruce 'Tog' Tognazzini, and other group members. |
 | [UX/UI Design and AI Courses - Global Design Community \| IxDF](https://www.questtree.net/resources/computer-science-human-computer-interaction-hci-https-www-interaction-design-org-9k1vpi) | 40 UX / UI Design and AI Courses. Learn from industry experts and earn industry-recognized certificates. Design meetups in cities worldwide. |
 
-### Computer Science Fundamentals · Mobile Development
+<h3 id="computer-science-fundamentals--mobile-development">Computer Science Fundamentals · Mobile Development</h3>
 
 | Title | Description |
 | --- | --- |
@@ -162,7 +162,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Swiftful Thinking \| Learn Swift Online](https://www.questtree.net/resources/computer-science-mobile-development-swiftful-coding-l9y00w) | Learn Swift and SwiftUI online with free courses from Swiftful Thinking. Fast-track your learning with structured bootcamps and by building sample applications. Become an expert iOS engineer with content ranging from beginner to advanced skill levels! |
 | [‎Xcode App - App Store](https://www.questtree.net/resources/computer-science-mobile-development-xcode-topgww) | Download Xcode by Apple on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Xcode. |
 
-### Computer Science Fundamentals · Object Oriented Programming Oop
+<h3 id="computer-science-fundamentals--object-oriented-programming-oop">Computer Science Fundamentals · Object Oriented Programming Oop</h3>
 
 | Title | Description |
 | --- | --- |
@@ -182,7 +182,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Refactoring and Design Patterns](https://www.questtree.net/resources/computer-science-object-oriented-programming-oop-refactoring-guru-l4nz5e) | Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design. |
 | [Sololearn: Learn to Code](https://www.questtree.net/resources/computer-science-object-oriented-programming-oop-sololearn-q0yzvy) | Join Now to learn the basics or advance your existing skills |
 
-### Computer Science Fundamentals · Programming Fundamentals
+<h3 id="computer-science-fundamentals--programming-fundamentals">Computer Science Fundamentals · Programming Fundamentals</h3>
 
 | Title | Description |
 | --- | --- |
@@ -199,7 +199,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Syntax - Tasty Web Development Treats \| Podcast on Spotify](https://www.questtree.net/resources/computer-science-programming-fundamentals-show-on-spotify-fv21t0) | This resource is a podcast available on Spotify titled "Syntax - Tasty Web Development Treats". It focuses on web development topics and offers episodes that can be tailored to specific interests through language selection. The podcast aims to deliver relevant content and advertising to its listeners. |
 | [Talk Python To Me \| Podcast on Spotify](https://www.questtree.net/resources/computer-science-programming-fundamentals-show-on-spotify-6h4iyp) | Listen to Talk Python To Me on Spotify. Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive             deep into the popular packages and software developers, data scientists, and incredible hobbyists doing             amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of the community             by hearing from the leaders. And if you've been Pythoning for years, you'll learn about your favorite             packages and the hot new ones coming out of open source. |
 
-### Computer Science Fundamentals · Software Engineering
+<h3 id="computer-science-fundamentals--software-engineering">Computer Science Fundamentals · Software Engineering</h3>
 
 | Title | Description |
 | --- | --- |
@@ -219,7 +219,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Visual Studio Code - The open source AI code editor \| Your home for multi-agent development](https://www.questtree.net/resources/computer-science-software-engineering-https-code-visualstudio-com-uwdimk) | Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows. |
 | [Your Career in Web Development Starts Here \| The Odin Project](https://www.questtree.net/resources/computer-science-software-engineering-https-www-theodinproject-com-di08x4) | The Odin Project empowers aspiring web developers to learn together for free |
 
-### Computer Science Fundamentals · Theory Of Computation
+<h3 id="computer-science-fundamentals--theory-of-computation">Computer Science Fundamentals · Theory Of Computation</h3>
 
 | Title | Description |
 | --- | --- |
@@ -236,7 +236,7 @@ Resources organized by subject and optional domain (e.g. Math, Physics, Coding).
 | [Theory of Computation & Automata Theory - YouTube](https://www.questtree.net/resources/computer-science-theory-of-computation-automata-theory-kch4sv) | Theory of Computation is one of the most fundamental as well as abstract courses of Computer Science. It is a branch in theoretical Computer Science that dea... |
 | [WilliamFiset - YouTube](https://www.questtree.net/resources/computer-science-theory-of-computation-algorithms-playlist-n4bnvs) | Educational computer science and mathematics channel for all to enjoy and learn from. |
 
-### Computer Science Fundamentals · Web Development
+<h3 id="computer-science-fundamentals--web-development">Computer Science Fundamentals · Web Development</h3>
 
 | Title | Description |
 | --- | --- |
